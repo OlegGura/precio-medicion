@@ -1,7 +1,1198 @@
 {
-  "46006": {"precio": 35, "municipio": "Valencia"},
-  "46001": {"precio": 35, "municipio": "Valencia"},
-  "46017": {"precio": 35, "municipio": "Valencia"},
-  "46970": {"precio": 40, "municipio": "Alaquàs"},
-  "46920": {"precio": 40, "municipio": "Mislata"}
+  "46001": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46002": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46003": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46004": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46005": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46006": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46007": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46008": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46009": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46010": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46011": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46012": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46013": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46014": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46015": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46016": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46017": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46018": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46019": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46020": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46021": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46022": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46023": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46024": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46025": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46026": {
+    "municipio": "Valencia",
+    "precio": 35
+  },
+  "46035": {
+    "municipio": "Valencia (Benimàmet)",
+    "precio": 35
+  },
+  "46070": {
+    "municipio": "Valencia",
+    "precio": 0
+  },
+  "46071": {
+    "municipio": "Valencia",
+    "precio": 0
+  },
+  "46080": {
+    "municipio": "Valencia",
+    "precio": 0
+  },
+  "46100": {
+    "municipio": "BURJASSOT",
+    "precio": 0
+  },
+  "46110": {
+    "municipio": "CAMPO OLIVAR",
+    "precio": 0
+  },
+  "46111": {
+    "municipio": "ROCAFORT",
+    "precio": 0
+  },
+  "46112": {
+    "municipio": "MASARROCHOS",
+    "precio": 0
+  },
+  "46113": {
+    "municipio": "MONCADA",
+    "precio": 0
+  },
+  "46114": {
+    "municipio": "VINALESA",
+    "precio": 0
+  },
+  "46115": {
+    "municipio": "ALFARA DEL PATRIARCA",
+    "precio": 0
+  },
+  "46116": {
+    "municipio": "MASIAS",
+    "precio": 0
+  },
+  "46117": {
+    "municipio": "BETERA",
+    "precio": 0
+  },
+  "46118": {
+    "municipio": "SERRA",
+    "precio": 0
+  },
+  "46119": {
+    "municipio": "NAQUERA",
+    "precio": 0
+  },
+  "46120": {
+    "municipio": "ALBORAYA",
+    "precio": 0
+  },
+  "46127": {
+    "municipio": "CAMPAMENTO MILITAR DE BETERA",
+    "precio": 0
+  },
+  "46128": {
+    "municipio": "SABOYA",
+    "precio": 0
+  },
+  "46129": {
+    "municipio": "MACHISTRE, EL",
+    "precio": 0
+  },
+  "46130": {
+    "municipio": "MASSAMAGRELL",
+    "precio": 0
+  },
+  "46131": {
+    "municipio": "BONREPOS I MIRAMBELL",
+    "precio": 0
+  },
+  "46132": {
+    "municipio": "ALMASSERA",
+    "precio": 0
+  },
+  "46133": {
+    "municipio": "MELIANA",
+    "precio": 0
+  },
+  "46134": {
+    "municipio": "CUIPER",
+    "precio": 0
+  },
+  "46135": {
+    "municipio": "ALBALAT DELS SORELLS",
+    "precio": 0
+  },
+  "46136": {
+    "municipio": "MUSEROS",
+    "precio": 0
+  },
+  "46137": {
+    "municipio": "PUEBLA DE FARNALS, PLAYA",
+    "precio": 0
+  },
+  "46138": {
+    "municipio": "RAFELBUÑOL",
+    "precio": 0
+  },
+  "46139": {
+    "municipio": "POBLA DE FARNALS, LA",
+    "precio": 0
+  },
+  "46140": {
+    "municipio": "ADEMUZ",
+    "precio": 0
+  },
+  "46141": {
+    "municipio": "CASTIELFABIB",
+    "precio": 0
+  },
+  "46142": {
+    "municipio": "SANTOS, LOS",
+    "precio": 0
+  },
+  "46143": {
+    "municipio": "TORREBAJA",
+    "precio": 0
+  },
+  "46144": {
+    "municipio": "MAS DE JACINTO",
+    "precio": 0
+  },
+  "46145": {
+    "municipio": "NEGRON",
+    "precio": 0
+  },
+  "46146": {
+    "municipio": "CASAS BAJAS",
+    "precio": 0
+  },
+  "46147": {
+    "municipio": "CASAS ALTAS",
+    "precio": 0
+  },
+  "46148": {
+    "municipio": "ALFARA DE ALGIMIA",
+    "precio": 0
+  },
+  "46149": {
+    "municipio": "GILET",
+    "precio": 0
+  },
+  "46150": {
+    "municipio": "CAMPAMENTO DE MARINES",
+    "precio": 0
+  },
+  "46160": {
+    "municipio": "LLIRIA",
+    "precio": 0
+  },
+  "46164": {
+    "municipio": "PEDRALBA",
+    "precio": 0
+  },
+  "46165": {
+    "municipio": "BUGARRA",
+    "precio": 0
+  },
+  "46166": {
+    "municipio": "GESTALGAR",
+    "precio": 0
+  },
+  "46167": {
+    "municipio": "CHULILLA",
+    "precio": 0
+  },
+  "46168": {
+    "municipio": "LOSA DEL OBISPO",
+    "precio": 0
+  },
+  "46169": {
+    "municipio": "GATOVA",
+    "precio": 0
+  },
+  "46170": {
+    "municipio": "ANDILLA",
+    "precio": 0
+  },
+  "46171": {
+    "municipio": "CASINOS",
+    "precio": 0
+  },
+  "46172": {
+    "municipio": "ALCUBLAS",
+    "precio": 0
+  },
+  "46174": {
+    "municipio": "CARRIL, DEL, MASIA",
+    "precio": 0
+  },
+  "46175": {
+    "municipio": "CALLES",
+    "precio": 0
+  },
+  "46176": {
+    "municipio": "AHILLAS",
+    "precio": 0
+  },
+  "46177": {
+    "municipio": "TUEJAR",
+    "precio": 0
+  },
+  "46178": {
+    "municipio": "ALMEZA, LA",
+    "precio": 0
+  },
+  "46179": {
+    "municipio": "ARAS DE LOS OLMOS",
+    "precio": 0
+  },
+  "46180": {
+    "municipio": "BENAGUASIL",
+    "precio": 0
+  },
+  "46181": {
+    "municipio": "BENISANO",
+    "precio": 0
+  },
+  "46182": {
+    "municipio": "CAÑADA, LA",
+    "precio": 0
+  },
+  "46183": {
+    "municipio": "ELIANA, L'",
+    "precio": 0
+  },
+  "46184": {
+    "municipio": "PLA DE LA VALLESA, EL",
+    "precio": 0
+  },
+  "46185": {
+    "municipio": "POBLA DE VALLBONA, LA",
+    "precio": 0
+  },
+  "46187": {
+    "municipio": "MONTECOLORADO, URBANIZACION",
+    "precio": 0
+  },
+  "46190": {
+    "municipio": "RIBA-ROJA DE TURIA",
+    "precio": 0
+  },
+  "46191": {
+    "municipio": "VILAMARXANT",
+    "precio": 0
+  },
+  "46192": {
+    "municipio": "MONSERRAT",
+    "precio": 0
+  },
+  "46193": {
+    "municipio": "MONTROY",
+    "precio": 0
+  },
+  "46194": {
+    "municipio": "REAL DE MONTROI",
+    "precio": 0
+  },
+  "46195": {
+    "municipio": "LLOMBAI",
+    "precio": 0
+  },
+  "46196": {
+    "municipio": "CATADAU",
+    "precio": 0
+  },
+  "46197": {
+    "municipio": "ALFARP",
+    "precio": 0
+  },
+  "46198": {
+    "municipio": "DOS AGUAS",
+    "precio": 0
+  },
+  "46199": {
+    "municipio": "ALDEA DEL ORO",
+    "precio": 0
+  },
+  "46200": {
+    "municipio": "PAIPORTA",
+    "precio": 0
+  },
+  "46210": {
+    "municipio": "PICANYA",
+    "precio": 0
+  },
+  "46220": {
+    "municipio": "ALTER, L'",
+    "precio": 0
+  },
+  "46225": {
+    "municipio": "CENTRO PENITENCIARIO PICASSENT",
+    "precio": 0
+  },
+  "46229": {
+    "municipio": "FUENTE DEL OMET",
+    "precio": 0
+  },
+  "46230": {
+    "municipio": "ALGINET",
+    "precio": 0
+  },
+  "46240": {
+    "municipio": "CARLET",
+    "precio": 0
+  },
+  "46249": {
+    "municipio": "VILLARRUBIA DE CARLET",
+    "precio": 0
+  },
+  "46250": {
+    "municipio": "ALCUDIA, L'",
+    "precio": 0
+  },
+  "46260": {
+    "municipio": "ALBERIC",
+    "precio": 0
+  },
+  "46266": {
+    "municipio": "ANTELLA",
+    "precio": 0
+  },
+  "46267": {
+    "municipio": "GAVARDA",
+    "precio": 0
+  },
+  "46268": {
+    "municipio": "GARROFERA DE ALZIRA, LA",
+    "precio": 0
+  },
+  "46269": {
+    "municipio": "TOUS",
+    "precio": 0
+  },
+  "46270": {
+    "municipio": "VILLANUEVA DE CASTELLON",
+    "precio": 0
+  },
+  "46290": {
+    "municipio": "ALCASSER",
+    "precio": 0
+  },
+  "46291": {
+    "municipio": "BENIMODO",
+    "precio": 0
+  },
+  "46292": {
+    "municipio": "MASALAVES",
+    "precio": 0
+  },
+  "46293": {
+    "municipio": "ALCANTERA DE XUQUER",
+    "precio": 0
+  },
+  "46294": {
+    "municipio": "CARCER",
+    "precio": 0
+  },
+  "46295": {
+    "municipio": "SELLENT",
+    "precio": 0
+  },
+  "46300": {
+    "municipio": "ALDEA DE ESTENAS",
+    "precio": 0
+  },
+  "46310": {
+    "municipio": "CARCELES, LAS (RIBERA)",
+    "precio": 0
+  },
+  "46311": {
+    "municipio": "JARAGUAS",
+    "precio": 0
+  },
+  "46312": {
+    "municipio": "BARCHEL",
+    "precio": 0
+  },
+  "46313": {
+    "municipio": "CASAS, LAS",
+    "precio": 0
+  },
+  "46314": {
+    "municipio": "CASA HORCAJO",
+    "precio": 0
+  },
+  "46315": {
+    "municipio": "CAUDETE DE LAS FUENTES",
+    "precio": 0
+  },
+  "46316": {
+    "municipio": "CASA DOÑANA",
+    "precio": 0
+  },
+  "46317": {
+    "municipio": "HUERTOS, LOS",
+    "precio": 0
+  },
+  "46318": {
+    "municipio": "PANTANO DE CONTRERAS",
+    "precio": 0
+  },
+  "46320": {
+    "municipio": "LOBOS, LOS",
+    "precio": 0
+  },
+  "46321": {
+    "municipio": "TORRE, ALDEA DE LA",
+    "precio": 0
+  },
+  "46330": {
+    "municipio": "CAMPORROBLES",
+    "precio": 0
+  },
+  "46339": {
+    "municipio": "LOBERUELA, LA",
+    "precio": 0
+  },
+  "46340": {
+    "municipio": "REQUENA",
+    "precio": 0
+  },
+  "46350": {
+    "municipio": "CHERA",
+    "precio": 0
+  },
+  "46351": {
+    "municipio": "CALVESTRA",
+    "precio": 0
+  },
+  "46352": {
+    "municipio": "CAMPO ARCIS",
+    "precio": 0
+  },
+  "46353": {
+    "municipio": "CAÑADA HONDA",
+    "precio": 0
+  },
+  "46354": {
+    "municipio": "CASAS DE LANZA",
+    "precio": 0
+  },
+  "46355": {
+    "municipio": "CARRASCALEJO",
+    "precio": 0
+  },
+  "46356": {
+    "municipio": "CASAS DE LA NORIA",
+    "precio": 0
+  },
+  "46357": {
+    "municipio": "AZAGADOR",
+    "precio": 0
+  },
+  "46360": {
+    "municipio": "BUÑOL",
+    "precio": 0
+  },
+  "46367": {
+    "municipio": "YATOVA",
+    "precio": 0
+  },
+  "46368": {
+    "municipio": "MACASTRE",
+    "precio": 0
+  },
+  "46369": {
+    "municipio": "ALBORACHE",
+    "precio": 0
+  },
+  "46370": {
+    "municipio": "CHIVA",
+    "precio": 0
+  },
+  "46380": {
+    "municipio": "CHESTE",
+    "precio": 0
+  },
+  "46388": {
+    "municipio": "GODELLETA",
+    "precio": 0
+  },
+  "46389": {
+    "municipio": "CONDE CORTICHELLES, DEL, MASIA",
+    "precio": 0
+  },
+  "46390": {
+    "municipio": "BARRIO ARROYO",
+    "precio": 0
+  },
+  "46391": {
+    "municipio": "MATUTANO, EL",
+    "precio": 0
+  },
+  "46392": {
+    "municipio": "SIETE AGUAS",
+    "precio": 0
+  },
+  "46393": {
+    "municipio": "LORIGUILLA",
+    "precio": 0
+  },
+  "46394": {
+    "municipio": "GRANJA ESCUELA HERMANAS CHAVAS",
+    "precio": 0
+  },
+  "46400": {
+    "municipio": "CANO, EL",
+    "precio": 0
+  },
+  "46408": {
+    "municipio": "DOSEL, EL",
+    "precio": 0
+  },
+  "46409": {
+    "municipio": "BROSQUIL, EL",
+    "precio": 0
+  },
+  "46410": {
+    "municipio": "SUECA",
+    "precio": 0
+  },
+  "46417": {
+    "municipio": "RIOLA",
+    "precio": 0
+  },
+  "46418": {
+    "municipio": "FORTALENY",
+    "precio": 0
+  },
+  "46419": {
+    "municipio": "MARENY BLAU",
+    "precio": 0
+  },
+  "46420": {
+    "municipio": "PERELLO, EL",
+    "precio": 0
+  },
+  "46430": {
+    "municipio": "SOLLANA",
+    "precio": 0
+  },
+  "46439": {
+    "municipio": "ALE, EL",
+    "precio": 0
+  },
+  "46440": {
+    "municipio": "ALMUSSAFES",
+    "precio": 0
+  },
+  "46450": {
+    "municipio": "BENIFAIO",
+    "precio": 0
+  },
+  "46460": {
+    "municipio": "SILLA",
+    "precio": 0
+  },
+  "46469": {
+    "municipio": "BENIPARRELL",
+    "precio": 0
+  },
+  "46470": {
+    "municipio": "ALBAL",
+    "precio": 0
+  },
+  "46500": {
+    "municipio": "PETRES",
+    "precio": 0
+  },
+  "46510": {
+    "municipio": "BENAVITES",
+    "precio": 0
+  },
+  "46511": {
+    "municipio": "BENIFAIRO DE LES VALLS",
+    "precio": 0
+  },
+  "46512": {
+    "municipio": "FAURA",
+    "precio": 0
+  },
+  "46520": {
+    "municipio": "GRAO DE SAGUNTO",
+    "precio": 0
+  },
+  "46529": {
+    "municipio": "ALMARDA, DE, PLAYA",
+    "precio": 0
+  },
+  "46530": {
+    "municipio": "PUÇOL",
+    "precio": 0
+  },
+  "46540": {
+    "municipio": "PUIG, DEL, PLAYA",
+    "precio": 0
+  },
+  "46550": {
+    "municipio": "ALBUIXECH",
+    "precio": 0
+  },
+  "46560": {
+    "municipio": "MASSALFASSAR",
+    "precio": 0
+  },
+  "46590": {
+    "municipio": "ESTIVELLA",
+    "precio": 0
+  },
+  "46591": {
+    "municipio": "ALBALAT DELS TARONCHERS",
+    "precio": 0
+  },
+  "46592": {
+    "municipio": "MALLA, LA",
+    "precio": 0
+  },
+  "46593": {
+    "municipio": "ALGAR DE PALANCIA",
+    "precio": 0
+  },
+  "46600": {
+    "municipio": "ALZIRA",
+    "precio": 0
+  },
+  "46610": {
+    "municipio": "GUADASSUAR",
+    "precio": 0
+  },
+  "46611": {
+    "municipio": "BENIMUSLEM",
+    "precio": 0
+  },
+  "46612": {
+    "municipio": "CORBERA",
+    "precio": 0
+  },
+  "46613": {
+    "municipio": "LLAURI",
+    "precio": 0
+  },
+  "46614": {
+    "municipio": "FAVARA",
+    "precio": 0
+  },
+  "46620": {
+    "municipio": "AYORA",
+    "precio": 0
+  },
+  "46621": {
+    "municipio": "CASAS DE MADRONA",
+    "precio": 0
+  },
+  "46622": {
+    "municipio": "TERESA DE COFRENTES",
+    "precio": 0
+  },
+  "46623": {
+    "municipio": "JARAFUEL",
+    "precio": 0
+  },
+  "46624": {
+    "municipio": "JALANCE",
+    "precio": 0
+  },
+  "46625": {
+    "municipio": "COFRENTES",
+    "precio": 0
+  },
+  "46630": {
+    "municipio": "FONT DE LA FIGUERA, LA",
+    "precio": 0
+  },
+  "46635": {
+    "municipio": "CASAS DE VIDAL",
+    "precio": 0
+  },
+  "46636": {
+    "municipio": "BARRIO ESPAÑA",
+    "precio": 0
+  },
+  "46637": {
+    "municipio": "CORRALES DE BLAY",
+    "precio": 0
+  },
+  "46638": {
+    "municipio": "BORDERIA, LA",
+    "precio": 0
+  },
+  "46639": {
+    "municipio": "CASA EL PLA",
+    "precio": 0
+  },
+  "46640": {
+    "municipio": "MOGENTE/MOIXENT",
+    "precio": 0
+  },
+  "46649": {
+    "municipio": "ALCUZAS, LAS",
+    "precio": 0
+  },
+  "46650": {
+    "municipio": "CANALS",
+    "precio": 0
+  },
+  "46659": {
+    "municipio": "AYACOR",
+    "precio": 0
+  },
+  "46660": {
+    "municipio": "MANUEL",
+    "precio": 0
+  },
+  "46666": {
+    "municipio": "BERFULL",
+    "precio": 0
+  },
+  "46667": {
+    "municipio": "BARXETA",
+    "precio": 0
+  },
+  "46668": {
+    "municipio": "LLOCNOU D'EN FELLONET",
+    "precio": 0
+  },
+  "46669": {
+    "municipio": "ENOVA, L'",
+    "precio": 0
+  },
+  "46670": {
+    "municipio": "POBLA LLARGA, LA",
+    "precio": 0
+  },
+  "46680": {
+    "municipio": "ALGEMESI",
+    "precio": 0
+  },
+  "46687": {
+    "municipio": "ALBALAT DE LA RIBERA",
+    "precio": 0
+  },
+  "46688": {
+    "municipio": "POLINYA DE XUQUER",
+    "precio": 0
+  },
+  "46689": {
+    "municipio": "BENICULL",
+    "precio": 0
+  },
+  "46690": {
+    "municipio": "ALCUDIA DE CRESPINS, L'",
+    "precio": 0
+  },
+  "46691": {
+    "municipio": "VALLADA",
+    "precio": 0
+  },
+  "46692": {
+    "municipio": "MONTESA",
+    "precio": 0
+  },
+  "46700": {
+    "municipio": "BENIOPA",
+    "precio": 0
+  },
+  "46710": {
+    "municipio": "DAIMUS, DE, PLAYA",
+    "precio": 0
+  },
+  "46711": {
+    "municipio": "GUARDAMAR DE LA SAFOR",
+    "precio": 0
+  },
+  "46712": {
+    "municipio": "PILES, DE, PLAYA",
+    "precio": 0
+  },
+  "46713": {
+    "municipio": "BELLREGUARD POBLE",
+    "precio": 0
+  },
+  "46714": {
+    "municipio": "PALMERA",
+    "precio": 0
+  },
+  "46715": {
+    "municipio": "ALQUERIA DE LA COMTESSA, L'/ALQUERIA DE LA CONDESA",
+    "precio": 0
+  },
+  "46716": {
+    "municipio": "RAFELCOFER",
+    "precio": 0
+  },
+  "46717": {
+    "municipio": "FONT D'EN CARROS, LA",
+    "precio": 0
+  },
+  "46720": {
+    "municipio": "VILLALONGA",
+    "precio": 0
+  },
+  "46721": {
+    "municipio": "POTRIES",
+    "precio": 0
+  },
+  "46722": {
+    "municipio": "BENIARJO",
+    "precio": 0
+  },
+  "46723": {
+    "municipio": "ALMOINES",
+    "precio": 0
+  },
+  "46724": {
+    "municipio": "ADOR",
+    "precio": 0
+  },
+  "46725": {
+    "municipio": "ALFAUIR",
+    "precio": 0
+  },
+  "46726": {
+    "municipio": "ALMISERA",
+    "precio": 0
+  },
+  "46727": {
+    "municipio": "REAL DE GANDIA",
+    "precio": 0
+  },
+  "46728": {
+    "municipio": "MARCHUQUERA",
+    "precio": 0
+  },
+  "46730": {
+    "municipio": "GANDIA, DE, PLAYA",
+    "precio": 0
+  },
+  "46740": {
+    "municipio": "CARCAIXENT",
+    "precio": 0
+  },
+  "46749": {
+    "municipio": "COGULLADA",
+    "precio": 0
+  },
+  "46750": {
+    "municipio": "SIMAT DE LA VALLDIGNA",
+    "precio": 0
+  },
+  "46758": {
+    "municipio": "BARX",
+    "precio": 0
+  },
+  "46759": {
+    "municipio": "CORRALES DE VALLDIGNA",
+    "precio": 0
+  },
+  "46760": {
+    "municipio": "BORDERIA, CRUCE",
+    "precio": 0
+  },
+  "46770": {
+    "municipio": "XERACO",
+    "precio": 0
+  },
+  "46780": {
+    "municipio": "OLE, CAMPING",
+    "precio": 0
+  },
+  "46789": {
+    "municipio": "PAUPI",
+    "precio": 0
+  },
+  "46790": {
+    "municipio": "CAUDELI, CAMPING",
+    "precio": 0
+  },
+  "46791": {
+    "municipio": "BENIFAIRO DE LA VALLDIGNA",
+    "precio": 0
+  },
+  "46792": {
+    "municipio": "BARRACA D'AIGUES VIVES",
+    "precio": 0
+  },
+  "46800": {
+    "municipio": "ALBOY",
+    "precio": 0
+  },
+  "46810": {
+    "municipio": "ENGUERA",
+    "precio": 0
+  },
+  "46811": {
+    "municipio": "NAVALON DE ABAJO",
+    "precio": 0
+  },
+  "46812": {
+    "municipio": "AIELO DE MALFERIT",
+    "precio": 0
+  },
+  "46813": {
+    "municipio": "CERDA",
+    "precio": 0
+  },
+  "46814": {
+    "municipio": "GRANJA DE LA COSTERA, LA",
+    "precio": 0
+  },
+  "46815": {
+    "municipio": "LLOSA DE RANES, LA",
+    "precio": 0
+  },
+  "46816": {
+    "municipio": "ROTGLA Y CORBERA",
+    "precio": 0
+  },
+  "46817": {
+    "municipio": "ESTUBENY",
+    "precio": 0
+  },
+  "46820": {
+    "municipio": "ANNA",
+    "precio": 0
+  },
+  "46821": {
+    "municipio": "CHELLA",
+    "precio": 0
+  },
+  "46822": {
+    "municipio": "BOLBAITE",
+    "precio": 0
+  },
+  "46823": {
+    "municipio": "NAVARRES",
+    "precio": 0
+  },
+  "46824": {
+    "municipio": "QUESA",
+    "precio": 0
+  },
+  "46825": {
+    "municipio": "BICORP",
+    "precio": 0
+  },
+  "46830": {
+    "municipio": "BENIGANIM",
+    "precio": 0
+  },
+  "46837": {
+    "municipio": "QUATRETONDA",
+    "precio": 0
+  },
+  "46838": {
+    "municipio": "BENICOLET",
+    "precio": 0
+  },
+  "46839": {
+    "municipio": "BALNEARIO DE BELLUS",
+    "precio": 0
+  },
+  "46840": {
+    "municipio": "POBLA DEL DUC, LA",
+    "precio": 0
+  },
+  "46841": {
+    "municipio": "CASTELLO DE RUGAT",
+    "precio": 0
+  },
+  "46842": {
+    "municipio": "AIELO DE RUGAT",
+    "precio": 0
+  },
+  "46843": {
+    "municipio": "RAFOL DE SALEM",
+    "precio": 0
+  },
+  "46844": {
+    "municipio": "BENIATJAR",
+    "precio": 0
+  },
+  "46850": {
+    "municipio": "OLLERIA, L'",
+    "precio": 0
+  },
+  "46860": {
+    "municipio": "ALBAIDA",
+    "precio": 0
+  },
+  "46868": {
+    "municipio": "BELGIDA",
+    "precio": 0
+  },
+  "46869": {
+    "municipio": "ATZENETA D'ALBAIDA",
+    "precio": 0
+  },
+  "46870": {
+    "municipio": "ONTINYENT",
+    "precio": 0
+  },
+  "46880": {
+    "municipio": "BOCAIRENT",
+    "precio": 0
+  },
+  "46890": {
+    "municipio": "AGULLENT",
+    "precio": 0
+  },
+  "46891": {
+    "municipio": "BUFALI",
+    "precio": 0
+  },
+  "46892": {
+    "municipio": "MONTAVERNER",
+    "precio": 0
+  },
+  "46893": {
+    "municipio": "ALFARRASI",
+    "precio": 0
+  },
+  "46894": {
+    "municipio": "GENOVES",
+    "precio": 0
+  },
+  "46900": {
+    "municipio": "REALON, DE, APEADERO",
+    "precio": 0
+  },
+  "46901": {
+    "municipio": "VEDAT DE TORRENTE, EL",
+    "precio": 0
+  },
+  "46909": {
+    "municipio": "JUEZ, DEL, MASIA",
+    "precio": 0
+  },
+  "46910": {
+    "municipio": "ALFAFAR",
+    "precio": 0
+  },
+  "46920": {
+    "municipio": "MISLATA",
+    "precio": 0
+  },
+  "46930": {
+    "municipio": "BARRIO DE PORTA",
+    "precio": 0
+  },
+  "46940": {
+    "municipio": "AEROPUERTO DE MANISES (VALENCIA)",
+    "precio": 0
+  },
+  "46950": {
+    "municipio": "XIRIVELLA",
+    "precio": 0
+  },
+  "46960": {
+    "municipio": "ALDAIA",
+    "precio": 0
+  },
+  "46970": {
+    "municipio": "ALAQUAS",
+    "precio": 0
+  },
+  "46980": {
+    "municipio": "CAMPAMENTO (PATERNA)",
+    "precio": 0
+  },
+  "46988": {
+    "municipio": "POLIGONO FUENTE DEL JARRO",
+    "precio": 0
+  },
+  "46989": {
+    "municipio": "TERRAMELAR",
+    "precio": 0
+  }
 }
