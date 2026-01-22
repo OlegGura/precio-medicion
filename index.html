@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Precio de medición</title>
+  <style>
+    body { font-family: -apple-system, system-ui, Arial; max-width: 560px; margin: 20px auto; padding: 0 14px; }
+    input, button { font-size: 18px; padding: 12px; width: 100%; margin: 8px 0; }
+    .box { border: 1px solid #ddd; border-radius: 12px; padding: 14px; }
+    .big { font-size: 34px; font-weight: 800; margin: 6px 0; }
+    .muted { color: #666; }
+    .row { display: flex; gap: 10px; }
+    .row button { width: 50%; }
+  </style>
+</head>
+<body>
+  <h2>Precio de medición</h2>
+
+  <div class="box">
+    <label class="muted">Código postal (5 dígitos)</label>
+    <input id="cp" inputmode="numeric" placeholder="Ej. 46017" maxlength="5" />
+    <button id="btn">Calcular</button>
+
+    <div id="result" style="margin-top:14px;"></div>
+
+    <div class="row" style="margin-top:10px;">
+      <button id="copy" disabled>Copiar</button>
+      <button id="report" disabled>Reportar CP</button>
+    </div>
+  </div>
+
+  <script>
+    // ТВОЙ WhatsApp (без "+")
+    const WHATSAPP_NUMBER = "34685520924";
+
+    let DB = {};
+
+    async function loadDB(){
+      const r = await fetch("data.json", {cache: "no-store"});
+      DB = await r.json();
+    }
+
+    function normalizeCP(v){
+      return (v || "").replace(/\D/g, "").slice(0,5);
+    }
+
+    function setResult(html, canCopy=false, canReport=false, copyText=""){
+      document.getElementById('result').innerHTML = html;
+      const copyBtn = document.getElementById('copy');
+      const reportBtn = document.getElementById('report');
+      copyBtn.disabled = !canCopy;
+      reportBtn.disabled = !canReport;
+      copyBtn.dataset.copyText = copyText || "";
+    }
+
+    function calc(){
+      const elCP = document.getElementById('cp');
+      const cp = normalizeCP(elCP.value);
+      elCP.value = cp;
+
+      if(cp.length !== 5){
+        setResult(`<p class="muted">CP inválido. Debe tener 5 dígitos.</p>`, false, false);
+        return;
+      }
+
+      const row = DB[cp];
+      if(!row){
+        setResult(
+          `<p class="big">No encontrado</p>
+           <p class="muted">Pida municipio/dirección. Puede reportar este CP para añadirlo a la base.</p>`,
+          false, true
+        );
+        return;
+      }
+
+      const precio = Number(row.precio);
+      const muni = row.municipio || "";
+      const txt = `Precio medición: ${precio} € (${muni})`;
+
+      setResult(`<p class="big">${precio} €</p><p class="muted">${muni}</p>`, true, true, txt);
+    }
+
+    document.getElementById('btn').addEventListener('click', calc);
+    document.getElementById('cp').addEventListener('keyup', (e)=>{ if(e.key==="Enter") calc(); });
+
+    document.getElementById('copy').addEventListener('click', async () => {
+      const t = document.getElementById('copy').dataset.copyText || "";
+      if(!t) return;
+      try {
+        await navigator.clipboard.writeText(t);
+        const b = document.getElementById('copy');
+        b.textContent = "¡Copiado!";
+        setTimeout(()=> b.textContent="Copiar", 900);
+      } catch {
+        alert(t);
+      }
+    });
+
+    document.getElementById('report').addEventListener('click', () => {
+      const cp = normalizeCP(document.getElementById('cp').value);
+      const text = encodeURIComponent(`CP para añadir a la base: ${cp}`);
+      window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${text}`, "_blank");
+    });
+
+    loadDB()
+      .then(()=> setResult(`<p class="muted">Introduzca un CP y pulse “Calcular”.</p>`))
+      .catch(()=> setResult(`<p class="muted">Error cargando la base (data.json). Compruebe que existe en la raíz del repositorio.</p>`));
+  </script>
+</body>
+</html>
