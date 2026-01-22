@@ -4,108 +4,355 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Precio de medición</title>
+
   <style>
-    body { font-family: -apple-system, system-ui, Arial; max-width: 560px; margin: 20px auto; padding: 0 14px; }
-    input, button { font-size: 18px; padding: 12px; width: 100%; margin: 8px 0; }
-    .box { border: 1px solid #ddd; border-radius: 12px; padding: 14px; }
-    .big { font-size: 34px; font-weight: 800; margin: 6px 0; }
-    .muted { color: #666; }
-    .row { display: flex; gap: 10px; }
-    .row button { width: 50%; }
+    * { box-sizing: border-box; }
+
+    :root{
+      --card-bg: rgba(255,255,255,.92);
+      --card-border: rgba(255,255,255,.35);
+      --shadow: rgba(0,0,0,.25);
+      --text: #111;
+      --muted: #666;
+      --danger: #b00020;
+      --ok: #0a7a2f;
+      --radius: 18px;
+    }
+
+    body{
+      font-family: -apple-system, system-ui, Segoe UI, Roboto, Arial, sans-serif;
+      margin:0;
+      min-height:100vh;
+      display:flex;
+      justify-content:center;
+      align-items:flex-start;
+      padding:40px 14px;
+      color: var(--text);
+
+      /* Фон задаётся через JS, чтобы можно было легко поменять имя файла */
+      background-position:center;
+      background-size:cover;
+      background-repeat:no-repeat;
+      background-attachment:fixed;
+    }
+
+    body::before{
+      content:"";
+      position:fixed;
+      inset:0;
+      background: rgba(0,0,0,.25);
+      z-index:-1;
+    }
+
+    .card{
+      width: min(560px, 100%);
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: 0 12px 40px var(--shadow);
+      backdrop-filter: blur(2px);
+    }
+
+    h1{
+      margin: 6px 0 6px;
+      text-align:center;
+      font-size: 26px;
+      font-weight: 800;
+      letter-spacing: .2px;
+    }
+
+    .sub{
+      text-align:center;
+      color: var(--muted);
+      margin: 0 0 16px;
+      font-size: 14px;
+    }
+
+    label{
+      display:block;
+      color: var(--muted);
+      margin-bottom:6px;
+      font-size: 14px;
+    }
+
+    input, button{
+      width:100%;
+      max-width:100%;
+      font-size:18px;
+      padding:12px 12px;
+      margin:8px 0;
+      border-radius: 12px;
+      border: 1px solid #bbb;
+      background: #fff;
+    }
+
+    input{
+      outline: none;
+    }
+    input:focus{
+      border-color:#888;
+      box-shadow: 0 0 0 3px rgba(0,0,0,.06);
+    }
+
+    button{
+      cursor:pointer;
+      background:#f3f3f3;
+      border-color:#bdbdbd;
+      font-weight: 600;
+    }
+    button:disabled{
+      opacity:.55;
+      cursor:not-allowed;
+    }
+
+    .row{
+      display:flex;
+      gap:10px;
+      margin-top:10px;
+    }
+    .row button{
+      width:50%;
+    }
+
+    @media (max-width: 430px){
+      .row{ flex-direction: column; }
+      .row button{ width:100%; }
+    }
+
+    .result{
+      margin-top:14px;
+      border-top: 1px solid rgba(0,0,0,.08);
+      padding-top: 14px;
+      min-height: 78px;
+    }
+
+    .big{
+      font-size:34px;
+      font-weight:900;
+      margin:0 0 6px;
+      line-height:1.05;
+    }
+
+    .muted{ color: var(--muted); }
+
+    .danger{ color: var(--danger); font-weight: 700; }
+    .ok{ color: var(--ok); font-weight: 800; }
+
+    .hint{
+      margin-top: 8px;
+      font-size: 12px;
+      color: var(--muted);
+    }
   </style>
 </head>
-<body>
-  <h2>Precio de medición</h2>
 
-  <div class="box">
-    <label class="muted">Código postal (5 dígitos)</label>
-    <input id="cp" inputmode="numeric" placeholder="Ej. 46017" maxlength="5" />
+<body>
+  <div class="card">
+    <h1>Precio de medición</h1>
+    <div class="sub">Calculadora por código postal</div>
+
+    <label for="cp">Código postal (5 dígitos)</label>
+    <input id="cp" inputmode="numeric" maxlength="5" placeholder="Ej. 46017" autocomplete="off" />
     <button id="btn">Calcular</button>
 
-    <div id="result" style="margin-top:14px;"></div>
+    <div id="result" class="result">
+      <div class="muted" id="status">Cargando base…</div>
+    </div>
 
-    <div class="row" style="margin-top:10px;">
+    <div class="row">
       <button id="copy" disabled>Copiar</button>
       <button id="report" disabled>Reportar CP</button>
+    </div>
+
+    <div class="hint">
+      Si WhatsApp no pega el texto automáticamente, ya estará copiado: pegue con Ctrl+V y envíe.
     </div>
   </div>
 
   <script>
-    // ТВОЙ WhatsApp (без "+")
-    const WHATSAPP_NUMBER = "34685520924";
+    /************ НАСТРОЙКИ ************/
+    const BG_IMAGE = "bg.webp";                 // имя твоего фона в корне репозитория
+    const DATA_URL = "data.json";               // база CP в корне
+    const WHATSAPP_NUMBER = "34685520924";      // твой номер без "+" и без пробелов
+    /***********************************/
 
-    let DB = {};
+    // Проставляем фон
+    document.body.style.backgroundImage = `url("${BG_IMAGE}")`;
+
+    const $cp = document.getElementById("cp");
+    const $btn = document.getElementById("btn");
+    const $copy = document.getElementById("copy");
+    const $report = document.getElementById("report");
+    const $result = document.getElementById("result");
+    const $status = document.getElementById("status");
+
+    let db = null;
+    let lastPayload = null; // что копировать/репортить
+
+    function normalizeCP(value){
+      return (value || "").replace(/\D/g, "").slice(0,5);
+    }
+
+    function setStatus(html){
+      $result.innerHTML = html;
+    }
+
+    function enableActions({copy=false, report=false}){
+      $copy.disabled = !copy;
+      $report.disabled = !report;
+    }
 
     async function loadDB(){
-      const r = await fetch("data.json", {cache: "no-store"});
-      DB = await r.json();
+      try{
+        const res = await fetch(DATA_URL, { cache: "no-store" });
+        if(!res.ok) throw new Error(`HTTP ${res.status}`);
+        db = await res.json();
+        setStatus(`<div class="muted">Base cargada. Introduzca un CP y pulse “Calcular”.</div>`);
+        enableActions({copy:false, report:false});
+      }catch(e){
+        db = null;
+        setStatus(`
+          <div class="danger">Error cargando la base (data.json).</div>
+          <div class="muted">Compruebe que existe en la raíz del repositorio y que el JSON es válido.</div>
+        `);
+        enableActions({copy:false, report:false});
+      }
     }
 
-    function normalizeCP(v){
-      return (v || "").replace(/\D/g, "").slice(0,5);
+    function buildCopyText(cp, precio, municipio){
+      return `CP ${cp} → ${precio} € (${municipio})`;
     }
 
-    function setResult(html, canCopy=false, canReport=false, copyText=""){
-      document.getElementById('result').innerHTML = html;
-      const copyBtn = document.getElementById('copy');
-      const reportBtn = document.getElementById('report');
-      copyBtn.disabled = !canCopy;
-      reportBtn.disabled = !canReport;
-      copyBtn.dataset.copyText = copyText || "";
+    function buildReportText(kind, cp, municipio, precio){
+      if(kind === "missing"){
+        return `Añadir CP a la base: ${cp}`;
+      }
+      // found but precio == 0
+      return `CP en base pero precio pendiente: ${cp} (${municipio}). Precio actual: ${precio}€`;
     }
 
-    function calc(){
-      const elCP = document.getElementById('cp');
-      const cp = normalizeCP(elCP.value);
-      elCP.value = cp;
+    async function copyToClipboard(text){
+      try{
+        await navigator.clipboard.writeText(text);
+        return true;
+      }catch(_){
+        return false;
+      }
+    }
+
+    function openWhatsAppWithText(text){
+      const url = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
+      window.open(url, "_blank");
+    }
+
+    function calculate(){
+      const cp = normalizeCP($cp.value);
+      $cp.value = cp;
+
+      if(!db){
+        setStatus(`<div class="danger">La base no está cargada.</div>`);
+        enableActions({copy:false, report:false});
+        return;
+      }
 
       if(cp.length !== 5){
-        setResult(`<p class="muted">CP inválido. Debe tener 5 dígitos.</p>`, false, false);
+        setStatus(`<div class="danger">Introduzca un CP válido de 5 dígitos.</div>`);
+        enableActions({copy:false, report:false});
+        lastPayload = null;
         return;
       }
 
-      const row = DB[cp];
+      const row = db[cp];
+
       if(!row){
-        setResult(
-          `<p class="big">No encontrado</p>
-           <p class="muted">Pida municipio/dirección. Puede reportar este CP para añadirlo a la base.</p>`,
-          false, true
-        );
+        // No encontrado
+        lastPayload = {
+          kind: "missing",
+          cp,
+          municipio: "",
+          precio: null
+        };
+        setStatus(`
+          <div class="big">No encontrado</div>
+          <div class="muted">Pida municipio/dirección. Puede reportar este CP para añadirlo a la base.</div>
+        `);
+        enableActions({copy:false, report:true});
         return;
       }
 
-      const precio = Number(row.precio);
-      const muni = row.municipio || "";
-      const txt = `Precio medición: ${precio} € (${muni})`;
+      const precio = Number(row.precio ?? 0);
+      const municipio = String(row.municipio ?? "").trim() || "—";
 
-      setResult(`<p class="big">${precio} €</p><p class="muted">${muni}</p>`, true, true, txt);
+      if(precio > 0){
+        const copyText = buildCopyText(cp, precio, municipio);
+        lastPayload = { kind: "ok", cp, municipio, precio, copyText };
+
+        setStatus(`
+          <div class="big"><span class="ok">${precio} €</span></div>
+          <div class="muted">${municipio}</div>
+        `);
+        enableActions({copy:true, report:false});
+      }else{
+        // Есть CP, но цена 0 = "не назначено"
+        lastPayload = { kind: "pending", cp, municipio, precio };
+        setStatus(`
+          <div class="big">Pendiente</div>
+          <div class="muted">${municipio}</div>
+          <div class="muted">Este CP está en la base, pero el precio es 0€. Asigne el precio según su mapa.</div>
+        `);
+        // Copy выключаем, чтобы никто случайно не отправил клиенту "0€"
+        enableActions({copy:false, report:true});
+      }
     }
 
-    document.getElementById('btn').addEventListener('click', calc);
-    document.getElementById('cp').addEventListener('keyup', (e)=>{ if(e.key==="Enter") calc(); });
+    // Events
+    $btn.addEventListener("click", calculate);
 
-    document.getElementById('copy').addEventListener('click', async () => {
-      const t = document.getElementById('copy').dataset.copyText || "";
-      if(!t) return;
-      try {
-        await navigator.clipboard.writeText(t);
-        const b = document.getElementById('copy');
-        b.textContent = "¡Copiado!";
-        setTimeout(()=> b.textContent="Copiar", 900);
-      } catch {
-        alert(t);
+    $cp.addEventListener("keydown", (e) => {
+      if(e.key === "Enter") calculate();
+    });
+
+    $cp.addEventListener("input", () => {
+      const clean = normalizeCP($cp.value);
+      if($cp.value !== clean) $cp.value = clean;
+    });
+
+    $copy.addEventListener("click", async () => {
+      if(!lastPayload || !lastPayload.copyText) return;
+      const ok = await copyToClipboard(lastPayload.copyText);
+      if(ok){
+        setStatus(`
+          <div class="big"><span class="ok">Copiado</span></div>
+          <div class="muted">${lastPayload.copyText}</div>
+        `);
+      }else{
+        setStatus(`
+          <div class="danger">No se pudo copiar automáticamente.</div>
+          <div class="muted">Copie manualmente: ${lastPayload.copyText}</div>
+        `);
       }
+      enableActions({copy:true, report:false});
     });
 
-    document.getElementById('report').addEventListener('click', () => {
-      const cp = normalizeCP(document.getElementById('cp').value);
-      const text = encodeURIComponent(`CP para añadir a la base: ${cp}`);
-      window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${text}`, "_blank");
+    $report.addEventListener("click", async () => {
+      if(!lastPayload) return;
+
+      const text = buildReportText(
+        lastPayload.kind === "missing" ? "missing" : "pending",
+        lastPayload.cp,
+        lastPayload.municipio || "",
+        lastPayload.precio ?? 0
+      );
+
+      // Сначала копируем (на случай если desktop WhatsApp не подхватит text=)
+      await copyToClipboard(text);
+      openWhatsAppWithText(text);
     });
 
-    loadDB()
-      .then(()=> setResult(`<p class="muted">Introduzca un CP y pulse “Calcular”.</p>`))
-      .catch(()=> setResult(`<p class="muted">Error cargando la base (data.json). Compruebe que existe en la raíz del repositorio.</p>`));
+    // Start
+    loadDB();
+    $cp.focus();
   </script>
 </body>
 </html>
