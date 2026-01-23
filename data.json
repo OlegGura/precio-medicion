@@ -197,7 +197,7 @@
   },
   "46136": {
     "municipio": "Museros",
-    "precio": 50
+    "precio": 45
   },
   "46137": {
     "municipio": "Puebla De Farnals (Playa)",
@@ -213,51 +213,51 @@
   },
   "46140": {
     "municipio": "Sesga",
-    "precio": 150
+    "precio": 160
   },
   "46141": {
     "municipio": "Castielfabib",
-    "precio": 145
+    "precio": 180
   },
   "46142": {
     "municipio": "Los Santos",
-    "precio": 140
+    "precio": 180
   },
   "46143": {
     "municipio": "Torrebaja",
-    "precio": 140
+    "precio": 180
   },
   "46144": {
     "municipio": "Torrealta",
-    "precio": 140
+    "precio": 180
   },
   "46145": {
     "municipio": "Negron",
-    "precio": 145
+    "precio": 180
   },
   "46146": {
     "municipio": "Casas Bajas",
-    "precio": 135
+    "precio": 190
   },
   "46147": {
     "municipio": "Casas Altas",
-    "precio": 135
+    "precio": 190
   },
   "46148": {
     "municipio": "Algimia De Alfara",
-    "precio": 70
+    "precio": 80
   },
   "46149": {
     "municipio": "Gilet",
-    "precio": 60
+    "precio": 70
   },
   "46150": {
     "municipio": "Campamento De Marines",
-    "precio": 80
+    "precio": 75
   },
   "46160": {
     "municipio": "Lliria",
-    "precio": 80
+    "precio": 75
   },
   "46162": {
     "municipio": "Artaj",
@@ -265,11 +265,11 @@
   },
   "46163": {
     "municipio": "Marines",
-    "precio": 70
+    "precio": 75
   },
   "46164": {
     "municipio": "Pedralba",
-    "precio": 70
+    "precio": 75
   },
   "46165": {
     "municipio": "Bugarra",
@@ -305,7 +305,7 @@
   },
   "46173": {
     "municipio": "Benageber",
-    "precio": 105
+    "precio": 120
   },
   "46174": {
     "municipio": "Domeño",
@@ -313,23 +313,23 @@
   },
   "46175": {
     "municipio": "Calles",
-    "precio": 95
+    "precio": 110
   },
   "46176": {
     "municipio": "Chelva",
-    "precio": 100
+    "precio": 110
   },
   "46177": {
     "municipio": "Tuejar",
-    "precio": 105
+    "precio": 120
   },
   "46178": {
     "municipio": "La Yesa",
-    "precio": 115
+    "precio": 120
   },
   "46179": {
     "municipio": "Losilla De Aras",
-    "precio": 120
+    "precio": 130
   },
   "46180": {
     "municipio": "Benaguasil",
@@ -389,11 +389,11 @@
   },
   "46198": {
     "municipio": "Millares",
-    "precio": 80
+    "precio": 100
   },
   "46199": {
     "municipio": "El Oro",
-    "precio": 100
+    "precio": 110
   },
   "46200": {
     "municipio": "Paiporta",
@@ -429,7 +429,7 @@
   },
   "46250": {
     "municipio": "Montortal",
-    "precio": 75
+    "precio": 70
   },
   "46260": {
     "municipio": "Alberic",
@@ -457,7 +457,7 @@
   },
   "46290": {
     "municipio": "Alcasser",
-    "precio": 50
+    "precio": 45
   },
   "46291": {
     "municipio": "Benimodo",
@@ -481,7 +481,7 @@
   },
   "46300": {
     "municipio": "Utiel",
-    "precio": 110
+    "precio": 120
   },
   "46310": {
     "municipio": "Las Monjas",
@@ -517,15 +517,15 @@
   },
   "46321": {
     "municipio": "Torre, Aldea De La",
-    "precio": 115
+    "precio": 120
   },
   "46330": {
     "municipio": "Camporrobles",
-    "precio": 125
+    "precio": 130
   },
   "46339": {
     "municipio": "La Loberuela",
-    "precio": 125
+    "precio": 130
   },
   "46340": {
     "municipio": "Requena",
@@ -533,11 +533,11 @@
   },
   "46350": {
     "municipio": "Chera",
-    "precio": 90
+    "precio": 110
   },
   "46351": {
     "municipio": "Las Nogueras",
-    "precio": 100
+    "precio": 120
   },
   "46352": {
     "municipio": "Los Duques",
@@ -553,7 +553,7 @@
   },
   "46355": {
     "municipio": "Los Pedrones",
-    "precio": 100
+    "precio": 120
   },
   "46356": {
     "municipio": "Casas Del Rio",
@@ -561,19 +561,19 @@
   },
   "46357": {
     "municipio": "Azagador",
-    "precio": 100
+    "precio": 110
   },
   "46360": {
     "municipio": "Buñol",
-    "precio": 75
+    "precio": 85
   },
   "46367": {
     "municipio": "Yatova",
-    "precio": 75
+    "precio": 90
   },
   "46368": {
     "municipio": "Macastre",
-    "precio": 75
+    "precio": 80
   },
   "46369": {
     "municipio": "Alborache",
@@ -581,19 +581,19 @@
   },
   "46370": {
     "municipio": "Chiva",
-    "precio": 65
+    "precio": 75
   },
   "46380": {
     "municipio": "Cheste",
-    "precio": 65
+    "precio": 70
   },
   "46388": {
     "municipio": "Godelleta",
-    "precio": 65
+    "precio": 70
   },
   "46389": {
     "municipio": "Turis",
-    "precio": 65
+    "precio": 70
   },
   "46390": {
     "municipio": "Roma",
@@ -601,18 +601,18 @@
   },
   "46391": {
     "municipio": "El Rebollar",
-    "precio": 90
+    "precio": 100
   },
   "46392": {
     "municipio": "Siete Aguas",
-    "precio": 85
+    "precio": 90
   },
   "46393": {
     "municipio": "Loriguilla",
-    "precio": 55
+    "precio": 120
   },
   "46394": {
-    "municipio": "Ventas De Poyo",
+    "municipio": "Ventas De Poyo"/"Riba-roja de Turia",
     "precio": 55
   },
   "46400": {
