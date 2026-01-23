@@ -617,11 +617,11 @@
   },
   "46400": {
     "municipio": "Cullera",
-    "precio": 75
+    "precio": 80
   },
   "46408": {
     "municipio": "El Dosel",
-    "precio": 70
+    "precio": 80
   },
   "46409": {
     "municipio": "El Estany",
@@ -733,15 +733,15 @@
   },
   "46590": {
     "municipio": "Estivella",
-    "precio": 65
+    "precio": 70
   },
   "46591": {
     "municipio": "Albalat Dels Taronchers",
-    "precio": 65
+    "precio": 70
   },
   "46592": {
     "municipio": "Segart",
-    "precio": 60
+    "precio": 70
   },
   "46593": {
     "municipio": "Algar De Palancia",
@@ -753,11 +753,11 @@
   },
   "46595": {
     "municipio": "Torres-Torres",
-    "precio": 65
+    "precio": 70
   },
   "46600": {
     "municipio": "Alzira",
-    "precio": 75
+    "precio": 70
   },
   "46610": {
     "municipio": "Guadassuar",
@@ -781,27 +781,27 @@
   },
   "46620": {
     "municipio": "Ayora",
-    "precio": 110
+    "precio": 150
   },
   "46621": {
     "municipio": "Zarra",
-    "precio": 125
+    "precio": 170
   },
   "46622": {
     "municipio": "Teresa De Cofrentes",
-    "precio": 110
+    "precio": 140
   },
   "46623": {
     "municipio": "Jarafuel",
-    "precio": 110
+    "precio": 150
   },
   "46624": {
     "municipio": "Jalance",
-    "precio": 105
+    "precio": 140
   },
   "46625": {
     "municipio": "Cofrentes",
-    "precio": 100
+    "precio": 130
   },
   "46630": {
     "municipio": "La Font De La Figuera",
@@ -877,23 +877,23 @@
   },
   "46700": {
     "municipio": "Gandia",
-    "precio": 95
+    "precio": 100
   },
   "46701": {
     "municipio": "Gandia",
-    "precio": 95
+    "precio": 100
   },
   "46702": {
     "municipio": "Gandia",
-    "precio": 95
+    "precio": 100
   },
   "46703": {
     "municipio": "Gandia",
-    "precio": 95
+    "precio": 100
   },
   "46710": {
     "municipio": "Daimus",
-    "precio": 95
+    "precio": 100
   },
   "46711": {
     "municipio": "Miramar",
@@ -917,15 +917,15 @@
   },
   "46716": {
     "municipio": "Rafelcofer",
-    "precio": 100
+    "precio": 110
   },
   "46717": {
     "municipio": "La Font D'En Carros",
-    "precio": 100
+    "precio": 110
   },
   "46720": {
     "municipio": "Villalonga",
-    "precio": 105
+    "precio": 110
   },
   "46721": {
     "municipio": "Potries",
@@ -957,19 +957,19 @@
   },
   "46728": {
     "municipio": "Gandia",
-    "precio": 95
+    "precio": 100
   },
   "46729": {
     "municipio": "Ador",
-    "precio": 135
+    "precio": 110
   },
   "46730": {
     "municipio": "Gandia",
-    "precio": 95
+    "precio": 100
   },
   "46740": {
     "municipio": "Carcaixent",
-    "precio": 75
+    "precio": 80
   },
   "46749": {
     "municipio": "Cogullada",
@@ -997,7 +997,7 @@
   },
   "46780": {
     "municipio": "Oliva",
-    "precio": 105
+    "precio": 110
   },
   "46790": {
     "municipio": "Xeresa",
@@ -1013,15 +1013,15 @@
   },
   "46800": {
     "municipio": "Sorio",
-    "precio": 95
+    "precio": 90
   },
   "46810": {
     "municipio": "Enguera",
-    "precio": 100
+    "precio": 110
   },
   "46811": {
     "municipio": "Navalon De Abajo",
-    "precio": 110
+    "precio": 120
   },
   "46812": {
     "municipio": "Aielo De Malferit",
@@ -1065,27 +1065,27 @@
   },
   "46822": {
     "municipio": "Bolbaite",
-    "precio": 90
+    "precio": 100
   },
   "46823": {
     "municipio": "Navarres",
-    "precio": 85
+    "precio": 100
   },
   "46824": {
     "municipio": "Quesa",
-    "precio": 90
+    "precio": 100
   },
   "46825": {
     "municipio": "Bicorp",
-    "precio": 90
+    "precio": 120
   },
   "46830": {
     "municipio": "Beniganim",
-    "precio": 95
+    "precio": 100
   },
   "46837": {
     "municipio": "Quatretonda",
-    "precio": 95
+    "precio": 100
   },
   "46838": {
     "municipio": "Pinet",
@@ -1125,7 +1125,7 @@
   },
   "46868": {
     "municipio": "Belgida",
-    "precio": 105
+    "precio": 110
   },
   "46869": {
     "municipio": "Benisoda",
@@ -1145,15 +1145,15 @@
   },
   "46891": {
     "municipio": "Bufali",
-    "precio": 105
+    "precio": 110
   },
   "46892": {
     "municipio": "Montaverner",
-    "precio": 105
+    "precio": 110
   },
   "46893": {
     "municipio": "Alfarrasi",
-    "precio": 100
+    "precio": 110
   },
   "46894": {
     "municipio": "Alboy",
