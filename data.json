@@ -1,1214 +1,5454 @@
 {
+  "43501": {
+    "precio": 155,
+    "municipio": "Teruel"
+  },
+  "43502": {
+    "precio": 150,
+    "municipio": "Teruel"
+  },
+  "43503": {
+    "precio": 155,
+    "municipio": "Teruel"
+  },
+  "43570": {
+    "precio": 155,
+    "municipio": "Teruel"
+  },
+  "43571": {
+    "precio": 155,
+    "municipio": "Teruel"
+  },
+  "43580": {
+    "precio": 155,
+    "municipio": "Teruel"
+  },
+  "44100": {
+    "precio": 175,
+    "municipio": "Albarracin"
+  },
+  "44110": {
+    "precio": 170,
+    "municipio": "Gea De Albarracin"
+  },
+  "44111": {
+    "precio": 185,
+    "municipio": "Torres De Albarracin"
+  },
+  "44112": {
+    "precio": 185,
+    "municipio": "Tramacastilla"
+  },
+  "44113": {
+    "precio": 190,
+    "municipio": "Noguera De Albarracin"
+  },
+  "44114": {
+    "precio": 195,
+    "municipio": "Griegos"
+  },
+  "44115": {
+    "precio": 190,
+    "municipio": "Guadalaviar"
+  },
+  "44120": {
+    "precio": 170,
+    "municipio": "Terriente"
+  },
+  "44121": {
+    "precio": 165,
+    "municipio": "Bezas"
+  },
+  "44122": {
+    "precio": 170,
+    "municipio": "Saldon"
+  },
+  "44123": {
+    "precio": 170,
+    "municipio": "El Vallecillo"
+  },
+  "44124": {
+    "precio": 175,
+    "municipio": "Moscardon"
+  },
+  "44125": {
+    "precio": 175,
+    "municipio": "Royuela"
+  },
+  "44126": {
+    "precio": 180,
+    "municipio": "Calomarde"
+  },
+  "44130": {
+    "precio": 150,
+    "municipio": "Villastar"
+  },
+  "44131": {
+    "precio": 145,
+    "municipio": "Villel"
+  },
+  "44132": {
+    "precio": 145,
+    "municipio": "Libros"
+  },
+  "44133": {
+    "precio": 145,
+    "municipio": "Tramacastiel"
+  },
+  "44134": {
+    "precio": 155,
+    "municipio": "Alobras"
+  },
+  "44135": {
+    "precio": 160,
+    "municipio": "Cañada De Benatanduz"
+  },
+  "44141": {
+    "precio": 165,
+    "municipio": "Tronchon"
+  },
+  "44142": {
+    "precio": 150,
+    "municipio": "La Iglesuela Del Cid"
+  },
+  "44143": {
+    "precio": 155,
+    "municipio": "Fortanete"
+  },
+  "44144": {
+    "precio": 160,
+    "municipio": "Villarroya De Los Pinares"
+  },
+  "44145": {
+    "precio": 155,
+    "municipio": "Allepuz"
+  },
+  "44146": {
+    "precio": 155,
+    "municipio": "Monteagudo Del Castillo"
+  },
+  "44147": {
+    "precio": 150,
+    "municipio": "Cedrillas"
+  },
+  "44150": {
+    "precio": 175,
+    "municipio": "Aliaga"
+  },
+  "44155": {
+    "precio": 170,
+    "municipio": "Camarillas"
+  },
+  "44156": {
+    "precio": 165,
+    "municipio": "Aguilar De Alfambra"
+  },
+  "44157": {
+    "precio": 180,
+    "municipio": "Hinojosa De Jarque"
+  },
+  "44158": {
+    "precio": 180,
+    "municipio": "Campos"
+  },
+  "44159": {
+    "precio": 165,
+    "municipio": "Miravete De La Sierra"
+  },
+  "44160": {
+    "precio": 170,
+    "municipio": "Alfambra"
+  },
+  "44161": {
+    "precio": 175,
+    "municipio": "Villalba Alta"
+  },
+  "44162": {
+    "precio": 165,
+    "municipio": "Peralejos"
+  },
+  "44163": {
+    "precio": 175,
+    "municipio": "Perales De Alfambra"
+  },
+  "44164": {
+    "precio": 190,
+    "municipio": "Lidon"
+  },
+  "44165": {
+    "precio": 190,
+    "municipio": "Argente"
+  },
+  "44166": {
+    "precio": 200,
+    "municipio": "Rubielos De La Cerida"
+  },
+  "44167": {
+    "precio": 185,
+    "municipio": "Camañas"
+  },
+  "44168": {
+    "precio": 185,
+    "municipio": "Cañada Vellida"
+  },
+  "44169": {
+    "precio": 185,
+    "municipio": "Mezquita De Jarque"
+  },
+  "44190": {
+    "precio": 150,
+    "municipio": "Villaspesa"
+  },
+  "44191": {
+    "precio": 135,
+    "municipio": "Valacloche"
+  },
+  "44192": {
+    "precio": 150,
+    "municipio": "Castralvo"
+  },
+  "44193": {
+    "precio": 155,
+    "municipio": "Corbalan"
+  },
+  "44194": {
+    "precio": 165,
+    "municipio": "Celadas"
+  },
+  "44195": {
+    "precio": 160,
+    "municipio": "San Blas"
+  },
+  "44200": {
+    "precio": 215,
+    "municipio": "Calamocha"
+  },
+  "44210": {
+    "precio": 215,
+    "municipio": "Cutanda"
+  },
+  "44211": {
+    "precio": 220,
+    "municipio": "Valverde"
+  },
+  "44212": {
+    "precio": 220,
+    "municipio": "Piedrahita"
+  },
+  "44213": {
+    "precio": 215,
+    "municipio": "Huesa Del Comun"
+  },
+  "44220": {
+    "precio": 210,
+    "municipio": "Nueros"
+  },
+  "44221": {
+    "precio": 210,
+    "municipio": "Godos"
+  },
+  "44222": {
+    "precio": 210,
+    "municipio": "Torrecilla Del Rebollar"
+  },
+  "44223": {
+    "precio": 205,
+    "municipio": "Villanueva Del Rebollar"
+  },
+  "44230": {
+    "precio": 225,
+    "municipio": "Tornos"
+  },
+  "44231": {
+    "precio": 230,
+    "municipio": "Castejon De Tornos"
+  },
+  "44232": {
+    "precio": 225,
+    "municipio": "Bello"
+  },
+  "44233": {
+    "precio": 225,
+    "municipio": "Odon"
+  },
+  "44300": {
+    "precio": 205,
+    "municipio": "Monreal Del Campo"
+  },
+  "44310": {
+    "precio": 200,
+    "municipio": "Rodenas"
+  },
+  "44311": {
+    "precio": 205,
+    "municipio": "Villar Del Salz"
+  },
+  "44313": {
+    "precio": 210,
+    "municipio": "Ojos Negros"
+  },
+  "44314": {
+    "precio": 215,
+    "municipio": "Blancas"
+  },
+  "44315": {
+    "precio": 210,
+    "municipio": "Pozuel Del Campo"
+  },
+  "44320": {
+    "precio": 230,
+    "municipio": "Baguena"
+  },
+  "44330": {
+    "precio": 230,
+    "municipio": "Burbaguena"
+  },
+  "44335": {
+    "precio": 210,
+    "municipio": "Fuentes Claras"
+  },
+  "44350": {
+    "precio": 210,
+    "municipio": "Caminreal"
+  },
+  "44357": {
+    "precio": 205,
+    "municipio": "Bañon"
+  },
+  "44358": {
+    "precio": 205,
+    "municipio": "Torre Los Negros"
+  },
+  "44359": {
+    "precio": 220,
+    "municipio": "Torralba De Los Sisones"
+  },
+  "44360": {
+    "precio": 185,
+    "municipio": "Santa Eulalia"
+  },
+  "44366": {
+    "precio": 200,
+    "municipio": "Orihuela Del Tremedal"
+  },
+  "44367": {
+    "precio": 190,
+    "municipio": "Bronchales"
+  },
+  "44368": {
+    "precio": 190,
+    "municipio": "Pozondon"
+  },
+  "44369": {
+    "precio": 200,
+    "municipio": "Peracense"
+  },
+  "44370": {
+    "precio": 170,
+    "municipio": "Cella"
+  },
+  "44380": {
+    "precio": 175,
+    "municipio": "Villarquemado"
+  },
+  "44381": {
+    "precio": 185,
+    "municipio": "Torremocha De Jiloca"
+  },
+  "44382": {
+    "precio": 190,
+    "municipio": "Aguaton"
+  },
+  "44390": {
+    "precio": 235,
+    "municipio": "San Martin Del Rio"
+  },
+  "44391": {
+    "precio": 225,
+    "municipio": "Luco De Jiloca"
+  },
+  "44392": {
+    "precio": 215,
+    "municipio": "El Poyo"
+  },
+  "44393": {
+    "precio": 210,
+    "municipio": "Torrijo Del Campo"
+  },
+  "44394": {
+    "precio": 195,
+    "municipio": "Villafranca Del Campo"
+  },
+  "44395": {
+    "precio": 190,
+    "municipio": "Alba"
+  },
+  "44396": {
+    "precio": 165,
+    "municipio": "Caude"
+  },
+  "44397": {
+    "precio": 160,
+    "municipio": "Concud"
+  },
+  "44350": {
+    "precio": 130,
+    "municipio": "Mora De Rubielos"
+  },
+  "44359": {
+    "precio": 145,
+    "municipio": "El Castellar"
+  },
+  "44410": {
+    "precio": 135,
+    "municipio": "Mosqueruela"
+  },
+  "44411": {
+    "precio": 125,
+    "municipio": "Puertomingalvo"
+  },
+  "44412": {
+    "precio": 135,
+    "municipio": "Linares De Mora"
+  },
+  "44413": {
+    "precio": 135,
+    "municipio": "Valdelinares"
+  },
+  "44414": {
+    "precio": 125,
+    "municipio": "Nogueruelas"
+  },
+  "44415": {
+    "precio": 120,
+    "municipio": "Fuentes De Rubielos"
+  },
+  "44420": {
+    "precio": 115,
+    "municipio": "Manzanera"
+  },
+  "44421": {
+    "precio": 120,
+    "municipio": "Arcos De Las Salinas"
+  },
+  "44422": {
+    "precio": 115,
+    "municipio": "Los Cerezos"
+  },
+  "44423": {
+    "precio": 120,
+    "municipio": "Los Olmos De Manzanera"
+  },
+  "44424": {
+    "precio": 120,
+    "municipio": "La Escaleruela"
+  },
+  "44430": {
+    "precio": 130,
+    "municipio": "Valbona"
+  },
+  "44431": {
+    "precio": 135,
+    "municipio": "Virgen De La Vega"
+  },
+  "44432": {
+    "precio": 135,
+    "municipio": "Alcala De La Selva"
+  },
+  "44433": {
+    "precio": 150,
+    "municipio": "Gudar"
+  },
+  "44435": {
+    "precio": 135,
+    "municipio": "Formiche Alto"
+  },
+  "44441": {
+    "precio": 135,
+    "municipio": "Formiche Bajo"
+  },
+  "44450": {
+    "precio": 135,
+    "municipio": "La Puebla De Valverde"
+  },
+  "44459": {
+    "precio": 130,
+    "municipio": "Camarena De La Sierra"
+  },
+  "44460": {
+    "precio": 120,
+    "municipio": "Sarrion"
+  },
+  "44470": {
+    "precio": 115,
+    "municipio": "Rubielos De Mora (Estacion)"
+  },
+  "44477": {
+    "precio": 115,
+    "municipio": "Albentosa"
+  },
+  "44478": {
+    "precio": 115,
+    "municipio": "Los Pertegaces"
+  },
+  "44479": {
+    "precio": 115,
+    "municipio": "Olba"
+  },
+  "44480": {
+    "precio": 105,
+    "municipio": "San Agustin"
+  },
+  "44490": {
+    "precio": 230,
+    "municipio": "Ferreruela De Huerva"
+  },
+  "44491": {
+    "precio": 230,
+    "municipio": "Badenas"
+  },
+  "44492": {
+    "precio": 225,
+    "municipio": "Bea"
+  },
+  "44493": {
+    "precio": 225,
+    "municipio": "Loscos"
+  },
+  "44494": {
+    "precio": 235,
+    "municipio": "Villahermosa Del Campo"
+  },
+  "44495": {
+    "precio": 225,
+    "municipio": "Cuencabuena"
+  },
+  "44496": {
+    "precio": 215,
+    "municipio": "Navarrete Del Rio"
+  },
+  "44497": {
+    "precio": 230,
+    "municipio": "Santa Cruz De Nogueras"
+  },
+  "44500": {
+    "precio": 205,
+    "municipio": "Andorra"
+  },
+  "44509": {
+    "precio": 205,
+    "municipio": "Alloza"
+  },
+  "44510": {
+    "precio": 230,
+    "municipio": "La Puebla De Hijar"
+  },
+  "44520": {
+    "precio": 230,
+    "municipio": "Samper De Calanda"
+  },
+  "44530": {
+    "precio": 225,
+    "municipio": "Hijar"
+  },
+  "44535": {
+    "precio": 220,
+    "municipio": "Albalate Del Arzobispo"
+  },
+  "44547": {
+    "precio": 210,
+    "municipio": "Ariño"
+  },
+  "44548": {
+    "precio": 210,
+    "municipio": "Oliete"
+  },
+  "44549": {
+    "precio": 215,
+    "municipio": "Alacon"
+  },
+  "44550": {
+    "precio": 195,
+    "municipio": "Alcorisa"
+  },
+  "44555": {
+    "precio": 170,
+    "municipio": "Pitarque"
+  },
+  "44556": {
+    "precio": 190,
+    "municipio": "Molinos"
+  },
+  "44557": {
+    "precio": 195,
+    "municipio": "Los Olmos"
+  },
+  "44558": {
+    "precio": 195,
+    "municipio": "Estercuel"
+  },
+  "44559": {
+    "precio": 185,
+    "municipio": "Ejulve"
+  },
+  "44560": {
+    "precio": 185,
+    "municipio": "Castellote"
+  },
+  "44561": {
+    "precio": 185,
+    "municipio": "Seno"
+  },
+  "44562": {
+    "precio": 185,
+    "municipio": "Dos Torres De Mercader"
+  },
+  "44563": {
+    "precio": 180,
+    "municipio": "Las Planas De Castellote"
+  },
+  "44564": {
+    "precio": 190,
+    "municipio": "Mas De Las Matas"
+  },
+  "44565": {
+    "precio": 185,
+    "municipio": "Abenfigo"
+  },
+  "44566": {
+    "precio": 190,
+    "municipio": "Aguaviva"
+  },
+  "44570": {
+    "precio": 200,
+    "municipio": "Calanda"
+  },
+  "44579": {
+    "precio": 200,
+    "municipio": "Foz Calanda"
+  },
+  "44580": {
+    "precio": 200,
+    "municipio": "Valderrobres"
+  },
+  "44586": {
+    "precio": 185,
+    "municipio": "Peñarroya De Tastavins"
+  },
+  "44587": {
+    "precio": 190,
+    "municipio": "Fuentespalda"
+  },
+  "44588": {
+    "precio": 195,
+    "municipio": "Beceite"
+  },
+  "44589": {
+    "precio": 200,
+    "municipio": "La Portellada"
+  },
+  "44592": {
+    "precio": 235,
+    "municipio": "Castelnou"
+  },
+  "44593": {
+    "precio": 225,
+    "municipio": "Urrea De Gaen"
+  },
+  "44594": {
+    "precio": 210,
+    "municipio": "Valdealgorfa"
+  },
+  "44595": {
+    "precio": 205,
+    "municipio": "Valjunquera"
+  },
+  "44596": {
+    "precio": 205,
+    "municipio": "La Fresneda"
+  },
+  "44597": {
+    "precio": 205,
+    "municipio": "Torre Del Compte"
+  },
+  "44600": {
+    "precio": 215,
+    "municipio": "Alcañiz"
+  },
+  "44610": {
+    "precio": 215,
+    "municipio": "Calaceite"
+  },
+  "44620": {
+    "precio": 210,
+    "municipio": "Valdeltormo"
+  },
+  "44621": {
+    "precio": 220,
+    "municipio": "Mazaleon"
+  },
+  "44622": {
+    "precio": 215,
+    "municipio": "Arens De Lledo"
+  },
+  "44623": {
+    "precio": 205,
+    "municipio": "Cretas"
+  },
+  "44624": {
+    "precio": 210,
+    "municipio": "Lledo"
+  },
+  "44630": {
+    "precio": 205,
+    "municipio": "Castelseras"
+  },
+  "44635": {
+    "precio": 205,
+    "municipio": "Torrecilla De Alcañiz"
+  },
+  "44641": {
+    "precio": 200,
+    "municipio": "Torrevelilla"
+  },
+  "44642": {
+    "precio": 195,
+    "municipio": "Belmonte De San Jose"
+  },
+  "44643": {
+    "precio": 195,
+    "municipio": "La Cañada De Verich"
+  },
+  "44650": {
+    "precio": 200,
+    "municipio": "Fornoles"
+  },
+  "44651": {
+    "precio": 190,
+    "municipio": "La Cerollera"
+  },
+  "44652": {
+    "precio": 185,
+    "municipio": "Monroyo"
+  },
+  "44653": {
+    "precio": 180,
+    "municipio": "Torre De Arcas"
+  },
+  "44660": {
+    "precio": 220,
+    "municipio": "Puigmoreno"
+  },
+  "44661": {
+    "precio": 220,
+    "municipio": "Valmuel"
+  },
+  "44700": {
+    "precio": 195,
+    "municipio": "Montalban"
+  },
+  "44706": {
+    "precio": 190,
+    "municipio": "Castel De Cabra"
+  },
+  "44707": {
+    "precio": 190,
+    "municipio": "Cañizar Del Olivar"
+  },
+  "44708": {
+    "precio": 185,
+    "municipio": "Palomar De Arroyos"
+  },
+  "44709": {
+    "precio": 195,
+    "municipio": "Torre De Las Arcas"
+  },
+  "44710": {
+    "precio": 185,
+    "municipio": "Rillo"
+  },
+  "44711": {
+    "precio": 185,
+    "municipio": "Fuentes Calientes"
+  },
+  "44712": {
+    "precio": 190,
+    "municipio": "Son Del Puerto"
+  },
+  "44720": {
+    "precio": 190,
+    "municipio": "Cervera Del Rincon"
+  },
+  "44721": {
+    "precio": 195,
+    "municipio": "Alpeñes"
+  },
+  "44730": {
+    "precio": 195,
+    "municipio": "Cuevas De Portalrubio"
+  },
+  "44735": {
+    "precio": 200,
+    "municipio": "Vivel Del Rio"
+  },
+  "44741": {
+    "precio": 200,
+    "municipio": "Fuenferrada"
+  },
+  "44742": {
+    "precio": 200,
+    "municipio": "Armillas"
+  },
+  "44750": {
+    "precio": 195,
+    "municipio": "Martin Del Rio"
+  },
+  "44760": {
+    "precio": 190,
+    "municipio": "Utrillas"
+  },
+  "44769": {
+    "precio": 190,
+    "municipio": "Las Parras De Martin"
+  },
+  "44770": {
+    "precio": 190,
+    "municipio": "Escucha"
+  },
+  "44779": {
+    "precio": 190,
+    "municipio": "Valdeconejos"
+  },
+  "44780": {
+    "precio": 215,
+    "municipio": "Muniesa"
+  },
+  "44790": {
+    "precio": 220,
+    "municipio": "Blesa"
+  },
+  "44791": {
+    "precio": 210,
+    "municipio": "Maicas"
+  },
+  "44792": {
+    "precio": 205,
+    "municipio": "Alcaine"
+  },
+  "44793": {
+    "precio": 210,
+    "municipio": "Salcedillo"
+  },
+  "50131": {
+    "precio": 235,
+    "municipio": "Lecera"
+  },
+  "50134": {
+    "precio": 235,
+    "municipio": "Samper De Salz"
+  },
+  "50143": {
+    "precio": 230,
+    "municipio": "Moyuela"
+  },
+  "50144": {
+    "precio": 225,
+    "municipio": "Moneva"
+  },
+  "50151": {
+    "precio": 235,
+    "municipio": "Luesma"
+  },
+  "50156": {
+    "precio": 235,
+    "municipio": "Villar De Los Navarros"
+  },
+  "50369": {
+    "precio": 235,
+    "municipio": "Lechon"
+  },
+  "50370": {
+    "precio": 235,
+    "municipio": "Villanueva De Jiloca"
+  },
+  "50371": {
+    "precio": 235,
+    "municipio": "Valdehorna"
+  },
+  "50372": {
+    "precio": 235,
+    "municipio": "Val De San Martin"
+  },
+  "50373": {
+    "precio": 235,
+    "municipio": "Santed"
+  },
+  "50491": {
+    "precio": 235,
+    "municipio": "Badules"
+  },
+  "50700": {
+    "precio": 235,
+    "municipio": "Caspe"
+  },
+  "50709": {
+    "precio": 235,
+    "municipio": "Miraflores, Huerta De"
+  },
+  "50710": {
+    "precio": 225,
+    "municipio": "Maella"
+  },
+  "50793": {
+    "precio": 235,
+    "municipio": "Fabara"
+  },
+  "02001": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02002": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02003": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02004": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02005": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02006": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02007": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02008": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02049": {
+    "precio": 185,
+    "municipio": "Aguas Nuevas"
+  },
+  "02070": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02071": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02080": {
+    "precio": 175,
+    "municipio": "Albacete"
+  },
+  "02100": {
+    "precio": 170,
+    "municipio": "Tarazona De La Mancha"
+  },
+  "02110": {
+    "precio": 180,
+    "municipio": "La Gineta"
+  },
+  "02120": {
+    "precio": 200,
+    "municipio": "Peñas De San Pedro"
+  },
+  "02124": {
+    "precio": 210,
+    "municipio": "Casasola"
+  },
+  "02125": {
+    "precio": 220,
+    "municipio": "Royo Odrea"
+  },
+  "02127": {
+    "precio": 220,
+    "municipio": "Fuenlabrada"
+  },
+  "02129": {
+    "precio": 215,
+    "municipio": "Fuente Del Pino"
+  },
+  "02130": {
+    "precio": 225,
+    "municipio": "Bogarra"
+  },
+  "02136": {
+    "precio": 235,
+    "municipio": "Paterna De Madera"
+  },
+  "02137": {
+    "precio": 235,
+    "municipio": "Batan Del Puerto"
+  },
+  "02139": {
+    "precio": 225,
+    "municipio": "Dehesa Del Val"
+  },
+  "02135": {
+    "precio": 190,
+    "municipio": "Albacete"
+  },
+  "02141": {
+    "precio": 195,
+    "municipio": "Pozohondo"
+  },
+  "02142": {
+    "precio": 200,
+    "municipio": "Mullidar"
+  },
+  "02150": {
+    "precio": 155,
+    "municipio": "Valdeganga"
+  },
+  "02151": {
+    "precio": 145,
+    "municipio": "Casas De Juan Nuñez"
+  },
+  "02152": {
+    "precio": 130,
+    "municipio": "Alatoz"
+  },
+  "02153": {
+    "precio": 130,
+    "municipio": "Carcelen"
+  },
+  "02154": {
+    "precio": 145,
+    "municipio": "Pozo-Lorente"
+  },
+  "02155": {
+    "precio": 165,
+    "municipio": "Tinajeros"
+  },
+  "02156": {
+    "precio": 160,
+    "municipio": "La Felipa"
+  },
+  "02160": {
+    "precio": 220,
+    "municipio": "Lezuza"
+  },
+  "02161": {
+    "precio": 210,
+    "municipio": "Tiriez"
+  },
+  "02162": {
+    "precio": 200,
+    "municipio": "La Herrera"
+  },
+  "02200": {
+    "precio": 135,
+    "municipio": "Casas-Ibañez"
+  },
+  "02210": {
+    "precio": 135,
+    "municipio": "Alcala Del Jucar"
+  },
+  "02211": {
+    "precio": 130,
+    "municipio": "Casas Del Cerro"
+  },
+  "02212": {
+    "precio": 125,
+    "municipio": "Casas De Ves"
+  },
+  "02213": {
+    "precio": 115,
+    "municipio": "La Pared"
+  },
+  "02214": {
+    "precio": 135,
+    "municipio": "Las Eras"
+  },
+  "02215": {
+    "precio": 130,
+    "municipio": "Alborea"
+  },
+  "02220": {
+    "precio": 165,
+    "municipio": "Motilleja"
+  },
+  "02230": {
+    "precio": 165,
+    "municipio": "Madrigueras"
+  },
+  "02235": {
+    "precio": 155,
+    "municipio": "Mahora"
+  },
+  "02246": {
+    "precio": 155,
+    "municipio": "Navas De Jorquera"
+  },
+  "02247": {
+    "precio": 150,
+    "municipio": "Cenizate"
+  },
+  "02248": {
+    "precio": 135,
+    "municipio": "Jorquera"
+  },
+  "02249": {
+    "precio": 150,
+    "municipio": "Alcozarejos"
+  },
+  "02250": {
+    "precio": 135,
+    "municipio": "Abengibre"
+  },
+  "02251": {
+    "precio": 145,
+    "municipio": "Campoalbillo"
+  },
+  "02252": {
+    "precio": 135,
+    "municipio": "Mariminguez"
+  },
+  "02253": {
+    "precio": 150,
+    "municipio": "Golosalvo"
+  },
+  "02260": {
+    "precio": 135,
+    "municipio": "Fuentealbilla"
+  },
+  "02270": {
+    "precio": 145,
+    "municipio": "Villamalea"
+  },
+  "02313": {
+    "precio": 235,
+    "municipio": "Peñascosa"
+  },
+  "02314": {
+    "precio": 235,
+    "municipio": "La Hoz"
+  },
+  "02320": {
+    "precio": 205,
+    "municipio": "Balazote"
+  },
+  "02326": {
+    "precio": 210,
+    "municipio": "Cañada Juncosa"
+  },
+  "02327": {
+    "precio": 205,
+    "municipio": "Casica Del Madroño"
+  },
+  "02328": {
+    "precio": 190,
+    "municipio": "Santa Ana"
+  },
+  "02329": {
+    "precio": 215,
+    "municipio": "Cucharal"
+  },
+  "02335": {
+    "precio": 235,
+    "municipio": "Robledo"
+  },
+  "02350": {
+    "precio": 195,
+    "municipio": "Hellin"
+  },
+  "02359": {
+    "precio": 200,
+    "municipio": "Mingogil"
+  },
+  "02410": {
+    "precio": 210,
+    "municipio": "Lietor"
+  },
+  "02420": {
+    "precio": 200,
+    "municipio": "Isso"
+  },
+  "02430": {
+    "precio": 220,
+    "municipio": "Elche De La Sierra"
+  },
+  "02434": {
+    "precio": 230,
+    "municipio": "Letur"
+  },
+  "02435": {
+    "precio": 225,
+    "municipio": "Socovos"
+  },
+  "02436": {
+    "precio": 225,
+    "municipio": "Ferez"
+  },
+  "02437": {
+    "precio": 225,
+    "municipio": "Tazona"
+  },
+  "02439": {
+    "precio": 225,
+    "municipio": "Abejuela"
+  },
+  "02435": {
+    "precio": 235,
+    "municipio": "Molinicos"
+  },
+  "02448": {
+    "precio": 235,
+    "municipio": "Vegallera"
+  },
+  "02449": {
+    "precio": 235,
+    "municipio": "Cañada De Morote"
+  },
+  "02486": {
+    "precio": 235,
+    "municipio": "Horno Ciego"
+  },
+  "02490": {
+    "precio": 195,
+    "municipio": "Agramon"
+  },
+  "02499": {
+    "precio": 205,
+    "municipio": "Las Minas"
+  },
+  "02500": {
+    "precio": 185,
+    "municipio": "Tobarra"
+  },
+  "02510": {
+    "precio": 175,
+    "municipio": "Pozo Cañada"
+  },
+  "02511": {
+    "precio": 185,
+    "municipio": "Campillo De Las Doblas"
+  },
+  "02512": {
+    "precio": 185,
+    "municipio": "Casa De Las Monjas"
+  },
+  "02513": {
+    "precio": 185,
+    "municipio": "Cordovilla"
+  },
+  "02520": {
+    "precio": 170,
+    "municipio": "Chinchilla De Monte Aragon"
+  },
+  "02600": {
+    "precio": 230,
+    "municipio": "Villarrobledo"
+  },
+  "02610": {
+    "precio": 235,
+    "municipio": "El Bonillo"
+  },
+  "02612": {
+    "precio": 225,
+    "municipio": "Munera"
+  },
+  "02614": {
+    "precio": 230,
+    "municipio": "El Ballestero"
+  },
+  "02620": {
+    "precio": 205,
+    "municipio": "Minaya"
+  },
+  "02630": {
+    "precio": 195,
+    "municipio": "La Roda"
+  },
+  "02636": {
+    "precio": 190,
+    "municipio": "Villalgordo Del Jucar"
+  },
+  "02637": {
+    "precio": 185,
+    "municipio": "Fuensanta"
+  },
+  "02638": {
+    "precio": 185,
+    "municipio": "Montalvos"
+  },
+  "02639": {
+    "precio": 205,
+    "municipio": "Santa Marta"
+  },
+  "02635": {
+    "precio": 130,
+    "municipio": "Almansa"
+  },
+  "02650": {
+    "precio": 150,
+    "municipio": "Montealegre Del Castillo"
+  },
+  "02651": {
+    "precio": 165,
+    "municipio": "Fuente-Alamo"
+  },
+  "02652": {
+    "precio": 175,
+    "municipio": "Ontur"
+  },
+  "02653": {
+    "precio": 180,
+    "municipio": "Albatana"
+  },
+  "02660": {
+    "precio": 135,
+    "municipio": "Caudete"
+  },
+  "02690": {
+    "precio": 130,
+    "municipio": "Alpera"
+  },
+  "02691": {
+    "precio": 165,
+    "municipio": "Horna"
+  },
+  "02692": {
+    "precio": 170,
+    "municipio": "Pinilla"
+  },
+  "02693": {
+    "precio": 155,
+    "municipio": "La Higuera"
+  },
+  "02694": {
+    "precio": 145,
+    "municipio": "Higueruela"
+  },
+  "02695": {
+    "precio": 155,
+    "municipio": "Villar De Chinchilla"
+  },
+  "02696": {
+    "precio": 155,
+    "municipio": "Hoya Gonzalo"
+  },
+  "16001": {
+    "precio": 200,
+    "municipio": "Cuenca"
+  },
+  "16002": {
+    "precio": 205,
+    "municipio": "Cuenca"
+  },
+  "16003": {
+    "precio": 200,
+    "municipio": "Cuenca"
+  },
+  "16004": {
+    "precio": 200,
+    "municipio": "Cuenca"
+  },
+  "16070": {
+    "precio": 200,
+    "municipio": "Cuenca"
+  },
+  "16071": {
+    "precio": 200,
+    "municipio": "Cuenca"
+  },
+  "16080": {
+    "precio": 200,
+    "municipio": "Cuenca"
+  },
+  "16100": {
+    "precio": 200,
+    "municipio": "Valverde De Jucar"
+  },
+  "16111": {
+    "precio": 205,
+    "municipio": "Villaverde Y Pasaconsol"
+  },
+  "16112": {
+    "precio": 195,
+    "municipio": "Baños De Valdeganga"
+  },
+  "16113": {
+    "precio": 200,
+    "municipio": "La Parra De Las Vegas"
+  },
+  "16114": {
+    "precio": 190,
+    "municipio": "Buenache De Alarcon"
+  },
+  "16118": {
+    "precio": 195,
+    "municipio": "Hontecillas"
+  },
+  "16120": {
+    "precio": 195,
+    "municipio": "Valera De Abajo"
+  },
+  "16122": {
+    "precio": 200,
+    "municipio": "Valdeganga De Cuenca"
+  },
+  "16123": {
+    "precio": 195,
+    "municipio": "Arcas Del Villar"
+  },
+  "16135": {
+    "precio": 205,
+    "municipio": "Villalba De La Sierra"
+  },
+  "16141": {
+    "precio": 220,
+    "municipio": "Fresneda De La Sierra"
+  },
+  "16142": {
+    "precio": 205,
+    "municipio": "Las Majadas"
+  },
+  "16143": {
+    "precio": 215,
+    "municipio": "Collados"
+  },
+  "16144": {
+    "precio": 225,
+    "municipio": "La Frontera"
+  },
+  "16145": {
+    "precio": 220,
+    "municipio": "Torrecilla"
+  },
+  "16146": {
+    "precio": 210,
+    "municipio": "Zarzuela"
+  },
+  "16147": {
+    "precio": 215,
+    "municipio": "Ventorro Chafe"
+  },
+  "16150": {
+    "precio": 205,
+    "municipio": "Vega Del Codorno"
+  },
+  "16152": {
+    "precio": 200,
+    "municipio": "Uña"
+  },
+  "16160": {
+    "precio": 235,
+    "municipio": "Palomares Del Campo"
+  },
+  "16161": {
+    "precio": 235,
+    "municipio": "Torrejoncillo Del Rey"
+  },
+  "16162": {
+    "precio": 235,
+    "municipio": "Horcajada De La Torre"
+  },
+  "16190": {
+    "precio": 225,
+    "municipio": "Sotoca"
+  },
+  "16191": {
+    "precio": 220,
+    "municipio": "Fuentesclaras Del Chillaron"
+  },
+  "16192": {
+    "precio": 195,
+    "municipio": "Palomera"
+  },
+  "16193": {
+    "precio": 195,
+    "municipio": "Mohorte"
+  },
+  "16194": {
+    "precio": 215,
+    "municipio": "Jabaga"
+  },
+  "16195": {
+    "precio": 230,
+    "municipio": "Villarejo Sobrehuerta"
+  },
+  "16196": {
+    "precio": 215,
+    "municipio": "Barbalimpia"
+  },
+  "16200": {
+    "precio": 165,
+    "municipio": "Motilla Del Palancar"
+  },
+  "16210": {
+    "precio": 160,
+    "municipio": "Campillo De Altobuey"
+  },
+  "16211": {
+    "precio": 185,
+    "municipio": "El Picazo"
+  },
+  "16212": {
+    "precio": 180,
+    "municipio": "Rubielos Bajos"
+  },
+  "16214": {
+    "precio": 185,
+    "municipio": "Alarcon"
+  },
+  "16215": {
+    "precio": 170,
+    "municipio": "Almodovar Del Pinar"
+  },
+  "16216": {
+    "precio": 195,
+    "municipio": "Valeria"
+  },
+  "16220": {
+    "precio": 170,
+    "municipio": "Quintanar Del Rey"
+  },
+  "16230": {
+    "precio": 170,
+    "municipio": "Villanueva De La Jara"
+  },
+  "16234": {
+    "precio": 165,
+    "municipio": "Casas De Santa Cruz"
+  },
+  "16235": {
+    "precio": 155,
+    "municipio": "Iniesta"
+  },
+  "16236": {
+    "precio": 165,
+    "municipio": "Villagarcia Del Llano"
+  },
+  "16237": {
+    "precio": 155,
+    "municipio": "Ledaña"
+  },
+  "16238": {
+    "precio": 160,
+    "municipio": "Casas Del Olmo"
+  },
+  "16239": {
+    "precio": 180,
+    "municipio": "Casasimarro"
+  },
+  "16235": {
+    "precio": 170,
+    "municipio": "El Peral"
+  },
+  "16250": {
+    "precio": 155,
+    "municipio": "Castillejo De Iniesta"
+  },
+  "16251": {
+    "precio": 150,
+    "municipio": "Graja De Iniesta"
+  },
+  "16260": {
+    "precio": 135,
+    "municipio": "Minglanilla"
+  },
+  "16269": {
+    "precio": 150,
+    "municipio": "Puebla Del Salvador"
+  },
+  "16270": {
+    "precio": 145,
+    "municipio": "Villalpardo"
+  },
+  "16280": {
+    "precio": 145,
+    "municipio": "Villarta"
+  },
+  "16290": {
+    "precio": 145,
+    "municipio": "Alcahozo"
+  },
+  "16300": {
+    "precio": 165,
+    "municipio": "Cañete"
+  },
+  "16311": {
+    "precio": 160,
+    "municipio": "Boniches"
+  },
+  "16312": {
+    "precio": 135,
+    "municipio": "Henarejos"
+  },
+  "16313": {
+    "precio": 125,
+    "municipio": "Aliaguilla"
+  },
+  "16315": {
+    "precio": 155,
+    "municipio": "Alcala De La Vega"
+  },
+  "16316": {
+    "precio": 175,
+    "municipio": "Laguna Del Marquesado"
+  },
+  "16317": {
+    "precio": 170,
+    "municipio": "Zafrilla"
+  },
+  "16318": {
+    "precio": 155,
+    "municipio": "Casas Nuevas"
+  },
+  "16320": {
+    "precio": 125,
+    "municipio": "Talayuelas"
+  },
+  "16321": {
+    "precio": 120,
+    "municipio": "Casillas De Ranera"
+  },
+  "16330": {
+    "precio": 135,
+    "municipio": "Landete"
+  },
+  "16336": {
+    "precio": 130,
+    "municipio": "La Olmeda"
+  },
+  "16337": {
+    "precio": 135,
+    "municipio": "Santo Domingo De Moya"
+  },
+  "16338": {
+    "precio": 145,
+    "municipio": "Algarra"
+  },
+  "16339": {
+    "precio": 130,
+    "municipio": "Manzaneruela"
+  },
+  "16335": {
+    "precio": 180,
+    "municipio": "La Cierva"
+  },
+  "16350": {
+    "precio": 170,
+    "municipio": "Carboneras De Guadazaon"
+  },
+  "16360": {
+    "precio": 175,
+    "municipio": "Monteagudo De Las Salinas"
+  },
+  "16370": {
+    "precio": 155,
+    "municipio": "Villar Del Humo"
+  },
+  "16371": {
+    "precio": 145,
+    "municipio": "Villora"
+  },
+  "16372": {
+    "precio": 145,
+    "municipio": "Enguidanos"
+  },
+  "16373": {
+    "precio": 155,
+    "municipio": "Yemeda"
+  },
+  "16390": {
+    "precio": 175,
+    "municipio": "Reillo"
+  },
+  "16393": {
+    "precio": 135,
+    "municipio": "Mira"
+  },
+  "16433": {
+    "precio": 230,
+    "municipio": "Alconchel De La Estrella"
+  },
+  "16434": {
+    "precio": 220,
+    "municipio": "Montalbanejo"
+  },
+  "16435": {
+    "precio": 215,
+    "municipio": "La Hinojosa"
+  },
+  "16442": {
+    "precio": 225,
+    "municipio": "Villares Del Saz"
+  },
+  "16444": {
+    "precio": 215,
+    "municipio": "Cervera Del Llano"
+  },
+  "16541": {
+    "precio": 235,
+    "municipio": "Pineda De Giguela"
+  },
+  "16542": {
+    "precio": 230,
+    "municipio": "Cuevas De Velasco"
+  },
+  "16600": {
+    "precio": 215,
+    "municipio": "San Clemente"
+  },
+  "16610": {
+    "precio": 205,
+    "municipio": "Casas De Fernando Alonso"
+  },
+  "16611": {
+    "precio": 200,
+    "municipio": "Casas De Haro"
+  },
+  "16612": {
+    "precio": 215,
+    "municipio": "Ventas De Alcolea"
+  },
+  "16620": {
+    "precio": 220,
+    "municipio": "La Alberca De Zancara"
+  },
+  "16621": {
+    "precio": 215,
+    "municipio": "Santa Maria Del Campo Rus"
+  },
+  "16622": {
+    "precio": 215,
+    "municipio": "Pinarejo"
+  },
+  "16623": {
+    "precio": 210,
+    "municipio": "Castillo De Garcimuñoz"
+  },
+  "16635": {
+    "precio": 235,
+    "municipio": "Belmonte"
+  },
+  "16646": {
+    "precio": 220,
+    "municipio": "Villalgordo Del Marquesado"
+  },
+  "16647": {
+    "precio": 235,
+    "municipio": "Villaescusa De Haro"
+  },
+  "16648": {
+    "precio": 220,
+    "municipio": "Villar De La Encina"
+  },
+  "16649": {
+    "precio": 230,
+    "municipio": "Rada De Haro"
+  },
+  "16660": {
+    "precio": 235,
+    "municipio": "Las Pedroñeras"
+  },
+  "16670": {
+    "precio": 225,
+    "municipio": "El Provencio"
+  },
+  "16700": {
+    "precio": 195,
+    "municipio": "Sisante"
+  },
+  "16707": {
+    "precio": 190,
+    "municipio": "Casas De Benitez"
+  },
+  "16708": {
+    "precio": 190,
+    "municipio": "Casas De Guijarro"
+  },
+  "16709": {
+    "precio": 205,
+    "municipio": "Villar De Cantos"
+  },
+  "16710": {
+    "precio": 200,
+    "municipio": "Atalaya Del Cañavate"
+  },
+  "16720": {
+    "precio": 200,
+    "municipio": "Cañada Juncosa"
+  },
+  "16730": {
+    "precio": 200,
+    "municipio": "Honrubia"
+  },
+  "16738": {
+    "precio": 205,
+    "municipio": "El Cañavate"
+  },
+  "16739": {
+    "precio": 205,
+    "municipio": "Torrubia Del Castillo"
+  },
+  "16735": {
+    "precio": 210,
+    "municipio": "La Almarcha"
+  },
+  "16760": {
+    "precio": 210,
+    "municipio": "Olivares De Jucar"
+  },
+  "16770": {
+    "precio": 215,
+    "municipio": "San Lorenzo De La Parrilla"
+  },
+  "16771": {
+    "precio": 230,
+    "municipio": "El Congosto"
+  },
+  "16779": {
+    "precio": 210,
+    "municipio": "Belmontejo"
+  },
+  "16780": {
+    "precio": 215,
+    "municipio": "Altarejos"
+  },
+  "16781": {
+    "precio": 210,
+    "municipio": "Fresneda De Altarejos"
+  },
+  "16800": {
+    "precio": 235,
+    "municipio": "Priego"
+  },
+  "16835": {
+    "precio": 220,
+    "municipio": "Villar De Domingo Garcia"
+  },
+  "16841": {
+    "precio": 230,
+    "municipio": "Albalate De Las Nogueras"
+  },
+  "16842": {
+    "precio": 225,
+    "municipio": "Torralba"
+  },
+  "16843": {
+    "precio": 235,
+    "municipio": "Fuentesbuenas"
+  },
+  "16850": {
+    "precio": 235,
+    "municipio": "Cañaveras"
+  },
+  "16853": {
+    "precio": 235,
+    "municipio": "Olmedilla De Eliz"
+  },
+  "16854": {
+    "precio": 235,
+    "municipio": "Castillo-Albarañez"
+  },
+  "16855": {
+    "precio": 230,
+    "municipio": "Arrancacepas"
+  },
+  "16860": {
+    "precio": 235,
+    "municipio": "Villaconejos De Trabaque"
+  },
+  "16870": {
+    "precio": 225,
+    "municipio": "Beteta"
+  },
+  "16878": {
+    "precio": 220,
+    "municipio": "Masegosa"
+  },
+  "16879": {
+    "precio": 235,
+    "municipio": "Carrascosa"
+  },
+  "16890": {
+    "precio": 230,
+    "municipio": "Cañamares"
+  },
+  "16891": {
+    "precio": 235,
+    "municipio": "Santa Cristina"
+  },
+  "16892": {
+    "precio": 230,
+    "municipio": "Puente De Vadillos"
+  },
+  "16893": {
+    "precio": 230,
+    "municipio": "Solan De Cabras"
+  },
+  "19300": {
+    "precio": 235,
+    "municipio": "Molina De Aragon"
+  },
+  "19310": {
+    "precio": 215,
+    "municipio": "Chequilla"
+  },
+  "19311": {
+    "precio": 205,
+    "municipio": "Orea"
+  },
+  "19312": {
+    "precio": 225,
+    "municipio": "Terzaga"
+  },
+  "19313": {
+    "precio": 220,
+    "municipio": "Peralejos De Las Truchas"
+  },
+  "19314": {
+    "precio": 230,
+    "municipio": "Taravilla"
+  },
+  "19315": {
+    "precio": 220,
+    "municipio": "Megina"
+  },
+  "19320": {
+    "precio": 205,
+    "municipio": "Alustante"
+  },
+  "19323": {
+    "precio": 205,
+    "municipio": "Tordesilos"
+  },
+  "19324": {
+    "precio": 215,
+    "municipio": "Setiles"
+  },
+  "19325": {
+    "precio": 215,
+    "municipio": "Piqueras"
+  },
+  "19326": {
+    "precio": 220,
+    "municipio": "El Pobo De Dueñas"
+  },
+  "19327": {
+    "precio": 215,
+    "municipio": "El Pedregal"
+  },
+  "19328": {
+    "precio": 230,
+    "municipio": "Castellar De La Muela"
+  },
+  "19350": {
+    "precio": 235,
+    "municipio": "Anchuela Del Pedregal"
+  },
+  "19351": {
+    "precio": 230,
+    "municipio": "Tordelpalo"
+  },
+  "19352": {
+    "precio": 225,
+    "municipio": "Prados Redondos"
+  },
+  "19353": {
+    "precio": 225,
+    "municipio": "Chera"
+  },
+  "19354": {
+    "precio": 230,
+    "municipio": "Aldehuela"
+  },
+  "19355": {
+    "precio": 225,
+    "municipio": "Torrecuadrada De Molina"
+  },
+  "19356": {
+    "precio": 225,
+    "municipio": "Otilla"
+  },
+  "19357": {
+    "precio": 220,
+    "municipio": "Anquela Del Pedregal"
+  },
+  "19360": {
+    "precio": 230,
+    "municipio": "Campillo De Dueñas"
+  },
+  "19361": {
+    "precio": 235,
+    "municipio": "La Yunta"
+  },
+  "19362": {
+    "precio": 235,
+    "municipio": "Cubillejo De La Sierra"
+  },
+  "19363": {
+    "precio": 235,
+    "municipio": "Cubillejo Del Sitio"
+  },
+  "19390": {
+    "precio": 235,
+    "municipio": "Valsalobre"
+  },
+  "19391": {
+    "precio": 235,
+    "municipio": "Castilnuevo"
+  },
+  "19462": {
+    "precio": 235,
+    "municipio": "Peñalen"
+  },
+  "19463": {
+    "precio": 230,
+    "municipio": "Poveda De La Sierra"
+  },
+  "43500": {
+    "precio": 205,
+    "municipio": "Simpatica (Carretera)"
+  },
+  "43510": {
+    "precio": 210,
+    "municipio": "Bitem"
+  },
+  "43511": {
+    "precio": 215,
+    "municipio": "Tivenys"
+  },
+  "43512": {
+    "precio": 220,
+    "municipio": "Benifallet"
+  },
+  "43513": {
+    "precio": 225,
+    "municipio": "Rasquera"
+  },
+  "43514": {
+    "precio": 190,
+    "municipio": "Mas De Barberans"
+  },
+  "43515": {
+    "precio": 190,
+    "municipio": "La Galera"
+  },
+  "43516": {
+    "precio": 190,
+    "municipio": "Godall"
+  },
+  "43517": {
+    "precio": 205,
+    "municipio": "Coll De L'Alba"
+  },
+  "43518": {
+    "precio": 205,
+    "municipio": "Sant Llatzer"
+  },
+  "43519": {
+    "precio": 220,
+    "municipio": "El Perello"
+  },
+  "43520": {
+    "precio": 205,
+    "municipio": "Roquetes"
+  },
+  "43527": {
+    "precio": 205,
+    "municipio": "Reguers, Els"
+  },
+  "43528": {
+    "precio": 205,
+    "municipio": "Alfara De Carles"
+  },
+  "43529": {
+    "precio": 205,
+    "municipio": "Horta De Dalt, L'"
+  },
+  "43530": {
+    "precio": 175,
+    "municipio": "Alcanar"
+  },
+  "43535": {
+    "precio": 190,
+    "municipio": "Sant Carles De La Rapita"
+  },
+  "43548": {
+    "precio": 195,
+    "municipio": "Salines De La Trinitat, Les"
+  },
+  "43549": {
+    "precio": 195,
+    "municipio": "El Poble Nou Del Delta"
+  },
+  "43550": {
+    "precio": 180,
+    "municipio": "Ulldecona"
+  },
+  "43558": {
+    "precio": 190,
+    "municipio": "Freginals"
+  },
+  "43559": {
+    "precio": 185,
+    "municipio": "La Miliana"
+  },
+  "43560": {
+    "precio": 180,
+    "municipio": "La Cenia"
+  },
+  "43569": {
+    "precio": 180,
+    "municipio": "Cases D'Alcanar, Les"
+  },
+  "43570": {
+    "precio": 195,
+    "municipio": "Santa Barbara"
+  },
+  "43580": {
+    "precio": 205,
+    "municipio": "Deltebre"
+  },
+  "43590": {
+    "precio": 205,
+    "municipio": "Jesus"
+  },
+  "43591": {
+    "precio": 210,
+    "municipio": "Aldover"
+  },
+  "43592": {
+    "precio": 215,
+    "municipio": "Xerta"
+  },
+  "43593": {
+    "precio": 210,
+    "municipio": "Pauls"
+  },
+  "43594": {
+    "precio": 225,
+    "municipio": "El Pinell De Brai"
+  },
+  "43595": {
+    "precio": 220,
+    "municipio": "Prat De Comte"
+  },
+  "43596": {
+    "precio": 210,
+    "municipio": "Horta De Sant Joan"
+  },
+  "43597": {
+    "precio": 205,
+    "municipio": "Arnes"
+  },
+  "43735": {
+    "precio": 235,
+    "municipio": "Mora D'Ebre"
+  },
+  "43746": {
+    "precio": 235,
+    "municipio": "Tivissa"
+  },
+  "43747": {
+    "precio": 235,
+    "municipio": "Benissanet"
+  },
+  "43748": {
+    "precio": 230,
+    "municipio": "Ginestar"
+  },
+  "43780": {
+    "precio": 225,
+    "municipio": "Gandesa"
+  },
+  "43782": {
+    "precio": 235,
+    "municipio": "Vilalba Dels Arcs"
+  },
+  "43784": {
+    "precio": 230,
+    "municipio": "Corbera D'Ebre"
+  },
+  "43785": {
+    "precio": 220,
+    "municipio": "Bot"
+  },
+  "43786": {
+    "precio": 225,
+    "municipio": "Batea"
+  },
+  "43787": {
+    "precio": 220,
+    "municipio": "Caseres"
+  },
+  "43860": {
+    "precio": 225,
+    "municipio": "Atmella De Mar, L'"
+  },
+  "43870": {
+    "precio": 195,
+    "municipio": "Amposta"
+  },
+  "43877": {
+    "precio": 195,
+    "municipio": "Sant Jaume D'Enveja"
+  },
+  "43878": {
+    "precio": 195,
+    "municipio": "Masdenverge"
+  },
+  "43879": {
+    "precio": 195,
+    "municipio": "Balada (Amposta)"
+  },
+  "43894": {
+    "precio": 235,
+    "municipio": "El Lligallo Del Ganguill"
+  },
+  "43895": {
+    "precio": 215,
+    "municipio": "Ampolla, L'"
+  },
+  "43896": {
+    "precio": 200,
+    "municipio": "Aldea, L'"
+  },
+  "07800": {
+    "precio": 205,
+    "municipio": "Eivissa"
+  },
+  "07810": {
+    "precio": 205,
+    "municipio": "Sant Joan De Labritja"
+  },
+  "07811": {
+    "precio": 210,
+    "municipio": "Punta Grossa"
+  },
+  "07812": {
+    "precio": 205,
+    "municipio": "Sant Llorenç De Balafia"
+  },
+  "07813": {
+    "precio": 205,
+    "municipio": "Puig De'N Valls"
+  },
+  "07814": {
+    "precio": 200,
+    "municipio": "Santa Gertrudis De Fruitera"
+  },
+  "07815": {
+    "precio": 200,
+    "municipio": "Port De Sant Miquel (Urbanitzacio)"
+  },
+  "07816": {
+    "precio": 195,
+    "municipio": "Sant Mateu D'Albarca"
+  },
+  "07817": {
+    "precio": 205,
+    "municipio": "Sant Josep De Sa Talaia (Plana Den Fita) (Barriada)"
+  },
+  "07818": {
+    "precio": 205,
+    "municipio": "Sant Josep De Sa Talaia (Sant Francesc De S'Estany)"
+  },
+  "07819": {
+    "precio": 205,
+    "municipio": "Santa Eularia Del Riu (Can Pep Simo) (Barriada)"
+  },
+  "07820": {
+    "precio": 190,
+    "municipio": "Sant Antoni De Portmany"
+  },
+  "07828": {
+    "precio": 195,
+    "municipio": "Santa Agnes De Corona"
+  },
+  "07829": {
+    "precio": 190,
+    "municipio": "Sant Josep De Sa Talaia (Cala Bou)"
+  },
+  "07830": {
+    "precio": 195,
+    "municipio": "Sant Josep De Sa Talaia (Cala Vedella)"
+  },
+  "07839": {
+    "precio": 195,
+    "municipio": "Sant Josep De Sa Talaia (Urbanitzacio Vista Alegre-Sa Caixota)"
+  },
+  "07835": {
+    "precio": 210,
+    "municipio": "Santa Eularia Del Riu (Buenavista) (Urbanitzacio)"
+  },
+  "07850": {
+    "precio": 210,
+    "municipio": "Cala Llenya (Platja)"
+  },
+  "07860": {
+    "precio": 215,
+    "municipio": "Cap De Barbaria"
+  },
+  "07870": {
+    "precio": 215,
+    "municipio": "La Savina"
+  },
+  "07871": {
+    "precio": 215,
+    "municipio": "Sant Ferran De Ses Roques"
+  },
+  "07872": {
+    "precio": 225,
+    "municipio": "Faro De La Mola"
+  },
+  "03657": {
+    "precio": 170,
+    "municipio": "Casas De Ibañez"
+  },
+  "30001": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30002": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30003": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30004": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30005": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30006": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30007": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30008": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30009": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30010": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30011": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30012": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30070": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30071": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30080": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30100": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30107": {
+    "precio": 215,
+    "municipio": "Guadalupe"
+  },
+  "30108": {
+    "precio": 215,
+    "municipio": "Rincon De Beniscornia"
+  },
+  "30109": {
+    "precio": 215,
+    "municipio": "Jeronimos, Los (Los Jeronimos)"
+  },
+  "30110": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30120": {
+    "precio": 220,
+    "municipio": "Palmar, El (El Palmar)"
+  },
+  "30130": {
+    "precio": 205,
+    "municipio": "Beniel"
+  },
+  "30139": {
+    "precio": 205,
+    "municipio": "El Raal"
+  },
+  "30135": {
+    "precio": 205,
+    "municipio": "Santomera"
+  },
+  "30148": {
+    "precio": 205,
+    "municipio": "Matanza, La (Santomera)"
+  },
+  "30149": {
+    "precio": 205,
+    "municipio": "El Siscar"
+  },
+  "30150": {
+    "precio": 220,
+    "municipio": "La Alberca"
+  },
+  "30151": {
+    "precio": 220,
+    "municipio": "Santo Angel"
+  },
+  "30152": {
+    "precio": 220,
+    "municipio": "Maurillos, Los (Carril)"
+  },
+  "30153": {
+    "precio": 235,
+    "municipio": "La Murta"
+  },
+  "30154": {
+    "precio": 235,
+    "municipio": "Valladolises"
+  },
+  "30155": {
+    "precio": 225,
+    "municipio": "Baños Y Mendigo"
+  },
+  "30156": {
+    "precio": 225,
+    "municipio": "Los Martinez Del Puerto"
+  },
+  "30157": {
+    "precio": 220,
+    "municipio": "Teatinos, Los (Algezares)"
+  },
+  "30158": {
+    "precio": 215,
+    "municipio": "Los Garres"
+  },
+  "30160": {
+    "precio": 210,
+    "municipio": "Monteagudo"
+  },
+  "30161": {
+    "precio": 210,
+    "municipio": "Llano De Brujas"
+  },
+  "30162": {
+    "precio": 210,
+    "municipio": "Santa Cruz"
+  },
+  "30163": {
+    "precio": 215,
+    "municipio": "El Esparragal"
+  },
+  "30164": {
+    "precio": 215,
+    "municipio": "Cañada De San Pedro"
+  },
+  "30165": {
+    "precio": 215,
+    "municipio": "Rincon De Seca"
+  },
+  "30166": {
+    "precio": 220,
+    "municipio": "Nonduermas"
+  },
+  "30167": {
+    "precio": 220,
+    "municipio": "Raya, La (La Raya)"
+  },
+  "30168": {
+    "precio": 220,
+    "municipio": "Murcia"
+  },
+  "30170": {
+    "precio": 225,
+    "municipio": "Mula"
+  },
+  "30176": {
+    "precio": 230,
+    "municipio": "Pliego"
+  },
+  "30177": {
+    "precio": 230,
+    "municipio": "Casas Nuevas (Casas Nuevas)"
+  },
+  "30178": {
+    "precio": 235,
+    "municipio": "Los Ojos"
+  },
+  "30179": {
+    "precio": 230,
+    "municipio": "Barqueros"
+  },
+  "30180": {
+    "precio": 230,
+    "municipio": "Bullas"
+  },
+  "30189": {
+    "precio": 230,
+    "municipio": "La Copa"
+  },
+  "30190": {
+    "precio": 220,
+    "municipio": "Albudeite"
+  },
+  "30191": {
+    "precio": 220,
+    "municipio": "Campos Del Rio"
+  },
+  "30192": {
+    "precio": 225,
+    "municipio": "Rodeo De Enmedio"
+  },
+  "30193": {
+    "precio": 220,
+    "municipio": "Puebla De Mula"
+  },
+  "30194": {
+    "precio": 225,
+    "municipio": "Niño De Mula"
+  },
+  "30196": {
+    "precio": 225,
+    "municipio": "Bajil"
+  },
+  "30319": {
+    "precio": 235,
+    "municipio": "Las Casicas"
+  },
+  "30385": {
+    "precio": 225,
+    "municipio": "La Ribera"
+  },
+  "30420": {
+    "precio": 215,
+    "municipio": "Calasparra"
+  },
+  "30430": {
+    "precio": 235,
+    "municipio": "Cehegin"
+  },
+  "30438": {
+    "precio": 235,
+    "municipio": "Campillo Y Suertes"
+  },
+  "30439": {
+    "precio": 235,
+    "municipio": "Burete"
+  },
+  "30435": {
+    "precio": 230,
+    "municipio": "Moratalla"
+  },
+  "30442": {
+    "precio": 235,
+    "municipio": "Otos"
+  },
+  "30500": {
+    "precio": 210,
+    "municipio": "Molina De Segura"
+  },
+  "30506": {
+    "precio": 210,
+    "municipio": "Molina De Segura"
+  },
+  "30507": {
+    "precio": 210,
+    "municipio": "Molina De Segura"
+  },
+  "30508": {
+    "precio": 210,
+    "municipio": "Molina De Segura"
+  },
+  "30509": {
+    "precio": 210,
+    "municipio": "Molina De Segura"
+  },
+  "30510": {
+    "precio": 150,
+    "municipio": "Yecla"
+  },
+  "30520": {
+    "precio": 175,
+    "municipio": "Jumilla"
+  },
+  "30528": {
+    "precio": 170,
+    "municipio": "La Estacada"
+  },
+  "30529": {
+    "precio": 180,
+    "municipio": "La Zarza"
+  },
+  "30530": {
+    "precio": 200,
+    "municipio": "Cieza"
+  },
+  "30535": {
+    "precio": 200,
+    "municipio": "Ascoy"
+  },
+  "30535": {
+    "precio": 205,
+    "municipio": "Casas Alcantara"
+  },
+  "30550": {
+    "precio": 205,
+    "municipio": "Abaran"
+  },
+  "30559": {
+    "precio": 200,
+    "municipio": "Hoya Del Campo"
+  },
+  "30560": {
+    "precio": 210,
+    "municipio": "Alguazas"
+  },
+  "30561": {
+    "precio": 210,
+    "municipio": "Las Pullas"
+  },
+  "30562": {
+    "precio": 210,
+    "municipio": "Ceuti"
+  },
+  "30563": {
+    "precio": 210,
+    "municipio": "Los Torraos"
+  },
+  "30564": {
+    "precio": 210,
+    "municipio": "Lorqui"
+  },
+  "30565": {
+    "precio": 215,
+    "municipio": "Florida, La (Las Torres De Cotillas)"
+  },
+  "30566": {
+    "precio": 230,
+    "municipio": "Huerta De Arriba"
+  },
+  "30570": {
+    "precio": 215,
+    "municipio": "Murcia"
+  },
+  "30579": {
+    "precio": 215,
+    "municipio": "Torreaguera"
+  },
+  "30580": {
+    "precio": 210,
+    "municipio": "Alquerias"
+  },
+  "30588": {
+    "precio": 210,
+    "municipio": "Zeneta"
+  },
+  "30589": {
+    "precio": 210,
+    "municipio": "Los Ramos"
+  },
+  "30590": {
+    "precio": 230,
+    "municipio": "Borrambla"
+  },
+  "30591": {
+    "precio": 230,
+    "municipio": "Balsicas"
+  },
+  "30592": {
+    "precio": 230,
+    "municipio": "Camachos"
+  },
+  "30600": {
+    "precio": 210,
+    "municipio": "Archena"
+  },
+  "30609": {
+    "precio": 210,
+    "municipio": "La Algaida"
+  },
+  "30610": {
+    "precio": 210,
+    "municipio": "La Bermeja"
+  },
+  "30611": {
+    "precio": 205,
+    "municipio": "Ojos"
+  },
+  "30612": {
+    "precio": 205,
+    "municipio": "Ulea"
+  },
+  "30613": {
+    "precio": 205,
+    "municipio": "Villanueva Rio Segura"
+  },
+  "30620": {
+    "precio": 195,
+    "municipio": "Fortuna"
+  },
+  "30626": {
+    "precio": 190,
+    "municipio": "Baños"
+  },
+  "30627": {
+    "precio": 200,
+    "municipio": "Hurona"
+  },
+  "30628": {
+    "precio": 190,
+    "municipio": "Matanza, La (Fortuna)"
+  },
+  "30629": {
+    "precio": 190,
+    "municipio": "Casicas, Las (Peña Zafra)"
+  },
+  "30635": {
+    "precio": 190,
+    "municipio": "Abanilla"
+  },
+  "30648": {
+    "precio": 190,
+    "municipio": "La Zarza De Abanilla"
+  },
+  "30649": {
+    "precio": 190,
+    "municipio": "Los Carrillos"
+  },
+  "30700": {
+    "precio": 235,
+    "municipio": "Hoya Morena"
+  },
+  "30708": {
+    "precio": 235,
+    "municipio": "El Gimenado"
+  },
+  "30709": {
+    "precio": 230,
+    "municipio": "Roldan"
+  },
+  "30710": {
+    "precio": 230,
+    "municipio": "Los Narejos"
+  },
+  "30720": {
+    "precio": 225,
+    "municipio": "Calavera, La (Santiago De La Rivera)"
+  },
+  "30729": {
+    "precio": 225,
+    "municipio": "Academia General Del Aire"
+  },
+  "30730": {
+    "precio": 225,
+    "municipio": "San Javier"
+  },
+  "30739": {
+    "precio": 230,
+    "municipio": "Roda"
+  },
+  "30735": {
+    "precio": 230,
+    "municipio": "Loma De Arriba"
+  },
+  "30820": {
+    "precio": 220,
+    "municipio": "Alcantarilla"
+  },
+  "30830": {
+    "precio": 215,
+    "municipio": "La Ñora"
+  },
+  "30831": {
+    "precio": 215,
+    "municipio": "Javali Viejo"
+  },
+  "30832": {
+    "precio": 220,
+    "municipio": "Javali Nuevo"
+  },
+  "30833": {
+    "precio": 225,
+    "municipio": "Sangonera La Verde"
+  },
+  "30834": {
+    "precio": 225,
+    "municipio": "Cuevas Del Norte"
+  },
+  "30835": {
+    "precio": 220,
+    "municipio": "Los Pepitos"
+  },
+  "30836": {
+    "precio": 220,
+    "municipio": "Puebla De Soto"
+  },
+  "30837": {
+    "precio": 230,
+    "municipio": "Cañada Hermosa (Murcia)"
+  },
+  "30848": {
+    "precio": 235,
+    "municipio": "Gebas"
+  },
+  "30849": {
+    "precio": 230,
+    "municipio": "El Cañarico"
+  },
+  "30892": {
+    "precio": 235,
+    "municipio": "Librilla"
+  },
+  "03001": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03002": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03003": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03004": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03005": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03006": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03007": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03008": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03009": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03010": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03011": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03012": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03013": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03014": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03015": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03016": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03070": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03071": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03080": {
+    "precio": 165,
+    "municipio": "Alicante/Alacant"
+  },
+  "03100": {
+    "precio": 135,
+    "municipio": "Abio"
+  },
+  "03108": {
+    "precio": 130,
+    "municipio": "Torre De Les Maçanes, La/Torremanzanas"
+  },
+  "03109": {
+    "precio": 145,
+    "municipio": "Maigmo (Urbanizacion)"
+  },
+  "03110": {
+    "precio": 155,
+    "municipio": "Huerta, La (Mutxamel) (Urbanizacion)"
+  },
+  "03111": {
+    "precio": 150,
+    "municipio": "Llano Pastores (Urbanizacion)"
+  },
+  "03112": {
+    "precio": 160,
+    "municipio": "Villafranqueza - Palamo"
+  },
+  "03113": {
+    "precio": 165,
+    "municipio": "El Rebolledo"
+  },
+  "03114": {
+    "precio": 165,
+    "municipio": "Bacarot"
+  },
+  "03115": {
+    "precio": 150,
+    "municipio": "Monnegre"
+  },
+  "03130": {
+    "precio": 180,
+    "municipio": "Santa Pola"
+  },
+  "03138": {
+    "precio": 180,
+    "municipio": "Tabarca"
+  },
+  "03139": {
+    "precio": 175,
+    "municipio": "Nova Vallverda"
+  },
+  "03135": {
+    "precio": 195,
+    "municipio": "Chapaprietas, Los (Partida)"
+  },
+  "03149": {
+    "precio": 195,
+    "municipio": "Moncayo"
+  },
+  "03150": {
+    "precio": 190,
+    "municipio": "Dolores"
+  },
+  "03158": {
+    "precio": 190,
+    "municipio": "Catral"
+  },
+  "03159": {
+    "precio": 190,
+    "municipio": "Mayayo"
+  },
+  "03160": {
+    "precio": 195,
+    "municipio": "Almoradi"
+  },
+  "03169": {
+    "precio": 195,
+    "municipio": "El Raiguero"
+  },
+  "03170": {
+    "precio": 195,
+    "municipio": "Ciudad Quesada"
+  },
+  "03176": {
+    "precio": 195,
+    "municipio": "Montebello"
+  },
+  "03177": {
+    "precio": 190,
+    "municipio": "Marina, La (Urbanizacion)"
+  },
+  "03178": {
+    "precio": 195,
+    "municipio": "Monteazul (Urbanizacion)"
+  },
+  "03179": {
+    "precio": 195,
+    "municipio": "Formentera Del Segura"
+  },
+  "03180": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03181": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03182": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03183": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03184": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03185": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03186": {
+    "precio": 205,
+    "municipio": "Torrevieja"
+  },
+  "03187": {
+    "precio": 205,
+    "municipio": "La Marquesa"
+  },
+  "03188": {
+    "precio": 200,
+    "municipio": "Torrevieja"
+  },
+  "03189": {
+    "precio": 215,
+    "municipio": "Cabo Roig"
+  },
+  "03190": {
+    "precio": 220,
+    "municipio": "Pilar De La Horadada"
+  },
+  "03191": {
+    "precio": 220,
+    "municipio": "Torre De La Horadada"
+  },
+  "03193": {
+    "precio": 205,
+    "municipio": "Presidente, El / Urbanizacion El Presidente (Urbanizacion)"
+  },
+  "03194": {
+    "precio": 200,
+    "municipio": "Pinet, El (Partida)"
+  },
+  "03195": {
+    "precio": 170,
+    "municipio": "Los Arenales Del Sol"
+  },
+  "03200": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03201": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03202": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03203": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03204": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03205": {
+    "precio": 175,
+    "municipio": "Carrus (Elche) (Partida)"
+  },
+  "03206": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03207": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03208": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03290": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03291": {
+    "precio": 175,
+    "municipio": "Ferriol (Elche) (Partida)"
+  },
+  "03292": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03293": {
+    "precio": 175,
+    "municipio": "Llano De San Jose (Elche) (Partida)"
+  },
+  "03294": {
+    "precio": 175,
+    "municipio": "Elx/Elche"
+  },
+  "03295": {
+    "precio": 175,
+    "municipio": "Jubalcoi (Elche) (Partida)"
+  },
+  "03296": {
+    "precio": 175,
+    "municipio": "Peña De Las Aguilas (Elche) (Partida)"
+  },
+  "03300": {
+    "precio": 200,
+    "municipio": "Orihuela"
+  },
+  "03310": {
+    "precio": 200,
+    "municipio": "Jacarilla"
+  },
+  "03311": {
+    "precio": 200,
+    "municipio": "Camino De En Medio"
+  },
+  "03312": {
+    "precio": 205,
+    "municipio": "Los Desamparados"
+  },
+  "03313": {
+    "precio": 205,
+    "municipio": "Torremendo"
+  },
+  "03314": {
+    "precio": 195,
+    "municipio": "San Bartolome"
+  },
+  "03315": {
+    "precio": 190,
+    "municipio": "Cutillas, Los (Caserio)"
+  },
+  "03316": {
+    "precio": 195,
+    "municipio": "Benferri"
+  },
+  "03317": {
+    "precio": 195,
+    "municipio": "Media Legua"
+  },
+  "03318": {
+    "precio": 190,
+    "municipio": "Lo Rocamora"
+  },
+  "03319": {
+    "precio": 195,
+    "municipio": "Entrenaranjos / Urb. Entre Naranjos (Urbanizacion)"
+  },
+  "03320": {
+    "precio": 170,
+    "municipio": "Torrellano"
+  },
+  "03321": {
+    "precio": 195,
+    "municipio": "Correntias Medias"
+  },
+  "03322": {
+    "precio": 200,
+    "municipio": "Molins"
+  },
+  "03325": {
+    "precio": 200,
+    "municipio": "Puente Los Cirios"
+  },
+  "03330": {
+    "precio": 180,
+    "municipio": "Crevillent"
+  },
+  "03339": {
+    "precio": 180,
+    "municipio": "Estacio, L' (Crevillente) (Partida)"
+  },
+  "03335": {
+    "precio": 185,
+    "municipio": "Albatera"
+  },
+  "03348": {
+    "precio": 190,
+    "municipio": "Mos Del Bou"
+  },
+  "03349": {
+    "precio": 185,
+    "municipio": "Arzabon (Partida)"
+  },
+  "03350": {
+    "precio": 190,
+    "municipio": "Los Diaz"
+  },
+  "03360": {
+    "precio": 195,
+    "municipio": "Cartagena, Lo (Callosa De Segura) (Grupo)"
+  },
+  "03369": {
+    "precio": 195,
+    "municipio": "Rafal"
+  },
+  "03370": {
+    "precio": 195,
+    "municipio": "Los Benitos"
+  },
+  "03380": {
+    "precio": 200,
+    "municipio": "Bigastro"
+  },
+  "03390": {
+    "precio": 195,
+    "municipio": "Benejuzar"
+  },
+  "03350": {
+    "precio": 135,
+    "municipio": "Villena"
+  },
+  "03358": {
+    "precio": 135,
+    "municipio": "Encina, La (Nucleo)"
+  },
+  "03359": {
+    "precio": 145,
+    "municipio": "Las Virtudes"
+  },
+  "03410": {
+    "precio": 135,
+    "municipio": "Biar"
+  },
+  "03420": {
+    "precio": 135,
+    "municipio": "Castalla"
+  },
+  "03430": {
+    "precio": 135,
+    "municipio": "Onil"
+  },
+  "03435": {
+    "precio": 135,
+    "municipio": "Ibi"
+  },
+  "03450": {
+    "precio": 125,
+    "municipio": "Molines, Les"
+  },
+  "03459": {
+    "precio": 125,
+    "municipio": "Villa-Rosa (Caserio)"
+  },
+  "03460": {
+    "precio": 130,
+    "municipio": "Beneixama"
+  },
+  "03469": {
+    "precio": 130,
+    "municipio": "El Salse"
+  },
+  "03500": {
+    "precio": 145,
+    "municipio": "Benidorm"
+  },
+  "03501": {
+    "precio": 145,
+    "municipio": "Benidorm"
+  },
+  "03502": {
+    "precio": 145,
+    "municipio": "Benidorm"
+  },
+  "03503": {
+    "precio": 145,
+    "municipio": "Foya Manera, La (Partida)"
+  },
+  "03508": {
+    "precio": 145,
+    "municipio": "Benidorm"
+  },
+  "03509": {
+    "precio": 135,
+    "municipio": "Molino, El (Urbanizacion)"
+  },
+  "03510": {
+    "precio": 130,
+    "municipio": "Callosa D'En Sarria"
+  },
+  "03516": {
+    "precio": 125,
+    "municipio": "Benimantell"
+  },
+  "03517": {
+    "precio": 125,
+    "municipio": "Benifato"
+  },
+  "03518": {
+    "precio": 130,
+    "municipio": "Bolulla"
+  },
+  "03519": {
+    "precio": 125,
+    "municipio": "Chines"
+  },
+  "03520": {
+    "precio": 135,
+    "municipio": "Bovalar (Urbanizacion)"
+  },
+  "03530": {
+    "precio": 135,
+    "municipio": "Torre, La (Urbanizacion)"
+  },
+  "03535": {
+    "precio": 160,
+    "municipio": "Alicante/Alacant"
+  },
+  "03550": {
+    "precio": 160,
+    "municipio": "Frank Espinos"
+  },
+  "03559": {
+    "precio": 135,
+    "municipio": "Apostoles, Los (Urbanizacion)"
+  },
+  "03560": {
+    "precio": 155,
+    "municipio": "Cala D'Or (Urbanizacion)"
+  },
+  "03569": {
+    "precio": 145,
+    "municipio": "Aigües"
+  },
+  "03570": {
+    "precio": 145,
+    "municipio": "Plands (Urbanizacion)"
+  },
+  "03578": {
+    "precio": 135,
+    "municipio": "Relleu"
+  },
+  "03579": {
+    "precio": 135,
+    "municipio": "Orxeta"
+  },
+  "03580": {
+    "precio": 135,
+    "municipio": "Devesa"
+  },
+  "03581": {
+    "precio": 125,
+    "municipio": "Albir, L' (Nucleo)"
+  },
+  "03589": {
+    "precio": 125,
+    "municipio": "Santa Fe (Urbanizacion)"
+  },
+  "03590": {
+    "precio": 135,
+    "municipio": "Planet, El (Altea)"
+  },
+  "03599": {
+    "precio": 135,
+    "municipio": "Sogay (Partida)"
+  },
+  "03600": {
+    "precio": 200,
+    "municipio": "La Siesta"
+  },
+  "03610": {
+    "precio": 155,
+    "municipio": "Pedreras, Las (Petrel)"
+  },
+  "03630": {
+    "precio": 150,
+    "municipio": "Sax"
+  },
+  "03638": {
+    "precio": 155,
+    "municipio": "Salinas"
+  },
+  "03639": {
+    "precio": 150,
+    "municipio": "La Colonia De Santa Eulalia"
+  },
+  "03635": {
+    "precio": 165,
+    "municipio": "Falcones"
+  },
+  "03649": {
+    "precio": 160,
+    "municipio": "Cañada Roja"
+  },
+  "03650": {
+    "precio": 170,
+    "municipio": "Pinoso"
+  },
+  "03658": {
+    "precio": 175,
+    "municipio": "Rodriguillo"
+  },
+  "03659": {
+    "precio": 165,
+    "municipio": "La Caballusa"
+  },
+  "03660": {
+    "precio": 165,
+    "municipio": "Serreta (Novelda)"
+  },
+  "03668": {
+    "precio": 175,
+    "municipio": "Algueña"
+  },
+  "03669": {
+    "precio": 170,
+    "municipio": "Los Joveres"
+  },
+  "03670": {
+    "precio": 160,
+    "municipio": "Monforte Del Cid"
+  },
+  "03679": {
+    "precio": 160,
+    "municipio": "Pozoblanco"
+  },
+  "03680": {
+    "precio": 165,
+    "municipio": "Aspe"
+  },
+  "03688": {
+    "precio": 175,
+    "municipio": "La Canalosa"
+  },
+  "03689": {
+    "precio": 180,
+    "municipio": "Casas De Galiana"
+  },
+  "03690": {
+    "precio": 160,
+    "municipio": "Sant Vicent Del Raspeig"
+  },
+  "03698": {
+    "precio": 155,
+    "municipio": "Agost"
+  },
+  "03699": {
+    "precio": 160,
+    "municipio": "La Cañada"
+  },
+  "03700": {
+    "precio": 125,
+    "municipio": "Santa Lucia"
+  },
+  "03709": {
+    "precio": 105,
+    "municipio": "Planes De Elias (Partida)"
+  },
+  "03710": {
+    "precio": 135,
+    "municipio": "La Canuta"
+  },
+  "03720": {
+    "precio": 135,
+    "municipio": "Fustera"
+  },
+  "03723": {
+    "precio": 120,
+    "municipio": "Llosa De Camacho"
+  },
+  "03724": {
+    "precio": 135,
+    "municipio": "Cap Blanc (Moraira/Teulada) (Urbanizacion)"
+  },
+  "03725": {
+    "precio": 130,
+    "municipio": "Teulada"
+  },
+  "03726": {
+    "precio": 130,
+    "municipio": "Poble Nou De Benitatxell, El/Benitachell"
+  },
+  "03727": {
+    "precio": 125,
+    "municipio": "Xalo"
+  },
+  "03728": {
+    "precio": 125,
+    "municipio": "Alcalali"
+  },
+  "03729": {
+    "precio": 130,
+    "municipio": "Cometa (Senija)"
+  },
+  "03730": {
+    "precio": 120,
+    "municipio": "Xabia/Javea"
+  },
+  "03737": {
+    "precio": 120,
+    "municipio": "Montgo-Toscamar"
+  },
+  "03738": {
+    "precio": 135,
+    "municipio": "Costa Nova"
+  },
+  "03739": {
+    "precio": 130,
+    "municipio": "La Mandarina"
+  },
+  "03735": {
+    "precio": 125,
+    "municipio": "Comes"
+  },
+  "03749": {
+    "precio": 135,
+    "municipio": "Foyes Blanques"
+  },
+  "03750": {
+    "precio": 120,
+    "municipio": "Pedreguer"
+  },
+  "03759": {
+    "precio": 120,
+    "municipio": "Rincon Del Silencio (Urbanizacion)"
+  },
+  "03760": {
+    "precio": 120,
+    "municipio": "Ondara"
+  },
+  "03769": {
+    "precio": 115,
+    "municipio": "Benimeli"
+  },
+  "03770": {
+    "precio": 115,
+    "municipio": "El Verger"
+  },
+  "03778": {
+    "precio": 115,
+    "municipio": "Beniarbeig"
+  },
+  "03779": {
+    "precio": 115,
+    "municipio": "Barranquet (Partida)"
+  },
+  "03780": {
+    "precio": 110,
+    "municipio": "Pego"
+  },
+  "03786": {
+    "precio": 115,
+    "municipio": "La Vall D'Alcala"
+  },
+  "03788": {
+    "precio": 115,
+    "municipio": "Alcala De La Jovada"
+  },
+  "03789": {
+    "precio": 110,
+    "municipio": "La Vall D' Ebo"
+  },
+  "03790": {
+    "precio": 120,
+    "municipio": "Orba (Casco Antiguo)"
+  },
+  "03791": {
+    "precio": 120,
+    "municipio": "Plana, La (Paradisorba)"
+  },
+  "03792": {
+    "precio": 120,
+    "municipio": "Orbeta (Urbanizacion)"
+  },
+  "03793": {
+    "precio": 120,
+    "municipio": "Castell De Castells"
+  },
+  "03794": {
+    "precio": 120,
+    "municipio": "Benigembla"
+  },
+  "03795": {
+    "precio": 115,
+    "municipio": "Tormos"
+  },
+  "03800": {
+    "precio": 125,
+    "municipio": "Alcoi/Alcoy"
+  },
+  "03801": {
+    "precio": 125,
+    "municipio": "Alcoi/Alcoy"
+  },
+  "03802": {
+    "precio": 125,
+    "municipio": "Alcoi/Alcoy"
+  },
+  "03803": {
+    "precio": 125,
+    "municipio": "Alcoi/Alcoy"
+  },
+  "03804": {
+    "precio": 125,
+    "municipio": "Alcoi/Alcoy"
+  },
+  "03810": {
+    "precio": 125,
+    "municipio": "Benilloba"
+  },
+  "03811": {
+    "precio": 120,
+    "municipio": "Quatretondeta"
+  },
+  "03812": {
+    "precio": 120,
+    "municipio": "Balones"
+  },
+  "03813": {
+    "precio": 120,
+    "municipio": "Facheca"
+  },
+  "03814": {
+    "precio": 125,
+    "municipio": "Alcoleja"
+  },
+  "03815": {
+    "precio": 125,
+    "municipio": "Penaguila"
+  },
+  "03816": {
+    "precio": 125,
+    "municipio": "Benifallim"
+  },
+  "03819": {
+    "precio": 130,
+    "municipio": "La Canaleta"
+  },
+  "03820": {
+    "precio": 120,
+    "municipio": "Algars"
+  },
+  "03827": {
+    "precio": 115,
+    "municipio": "Benillup"
+  },
+  "03828": {
+    "precio": 115,
+    "municipio": "Catamarruch"
+  },
+  "03829": {
+    "precio": 115,
+    "municipio": "Alqueria D'Asnar, L'"
+  },
+  "03830": {
+    "precio": 115,
+    "municipio": "Muro De Alcoy"
+  },
+  "03837": {
+    "precio": 115,
+    "municipio": "Agres"
+  },
+  "03838": {
+    "precio": 115,
+    "municipio": "Alfafara"
+  },
+  "03839": {
+    "precio": 115,
+    "municipio": "Benamer"
+  },
+  "03835": {
+    "precio": 110,
+    "municipio": "Gaianes"
+  },
+  "03841": {
+    "precio": 115,
+    "municipio": "Alcocer De Planes"
+  },
+  "03850": {
+    "precio": 110,
+    "municipio": "Beniarres"
+  },
+  "03860": {
+    "precio": 105,
+    "municipio": "Lorcha/Orxa, L'"
+  },
+  "03870": {
+    "precio": 125,
+    "municipio": "Penella"
+  },
+  "12001": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12002": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12003": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12004": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12005": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12006": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12070": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12071": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12080": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12100": {
+    "precio": 125,
+    "municipio": "Castellon De La Plana/Castello De La Pla"
+  },
+  "12110": {
+    "precio": 105,
+    "municipio": "Alcora, L'"
+  },
+  "12118": {
+    "precio": 115,
+    "municipio": "Useres, Les/ Useras"
+  },
+  "12119": {
+    "precio": 115,
+    "municipio": "Masdavall"
+  },
+  "12120": {
+    "precio": 110,
+    "municipio": "Lucena Del Cid"
+  },
+  "12121": {
+    "precio": 110,
+    "municipio": "La Foya"
+  },
+  "12122": {
+    "precio": 110,
+    "municipio": "Figueroles"
+  },
+  "12123": {
+    "precio": 115,
+    "municipio": "Cedraman"
+  },
+  "12124": {
+    "precio": 120,
+    "municipio": "Bibioj"
+  },
+  "12125": {
+    "precio": 110,
+    "municipio": "Zucaina"
+  },
+  "12126": {
+    "precio": 110,
+    "municipio": "San Vicente De Cortes"
+  },
+  "12127": {
+    "precio": 120,
+    "municipio": "Cortes De Arenoso"
+  },
+  "12130": {
+    "precio": 105,
+    "municipio": "Mas De Flors"
+  },
+  "12131": {
+    "precio": 120,
+    "municipio": "Las Crevadas"
+  },
+  "12132": {
+    "precio": 120,
+    "municipio": "Atzeneta Del Maestrat"
+  },
+  "12133": {
+    "precio": 120,
+    "municipio": "Meanes"
+  },
+  "12134": {
+    "precio": 130,
+    "municipio": "Benafigos"
+  },
+  "12135": {
+    "precio": 130,
+    "municipio": "Vistabella Del Maestrazgo"
+  },
+  "12135": {
+    "precio": 135,
+    "municipio": "Albocasser"
+  },
+  "12150": {
+    "precio": 145,
+    "municipio": "Villafranca Del Cid"
+  },
+  "12159": {
+    "precio": 155,
+    "municipio": "Mas Llosar"
+  },
+  "12160": {
+    "precio": 135,
+    "municipio": "Fuentes En Segures"
+  },
+  "12161": {
+    "precio": 135,
+    "municipio": "La Torre D'En Besora"
+  },
+  "12162": {
+    "precio": 135,
+    "municipio": "Vilar De Canes"
+  },
+  "12163": {
+    "precio": 135,
+    "municipio": "Culla"
+  },
+  "12164": {
+    "precio": 135,
+    "municipio": "Los Rosildos"
+  },
+  "12165": {
+    "precio": 150,
+    "municipio": "Ares Del Maestrat"
+  },
+  "12166": {
+    "precio": 135,
+    "municipio": "Los Ibarzos"
+  },
+  "12170": {
+    "precio": 160,
+    "municipio": "Sant Mateu"
+  },
+  "12179": {
+    "precio": 150,
+    "municipio": "Tirig"
+  },
+  "12180": {
+    "precio": 120,
+    "municipio": "Cabanes"
+  },
+  "12181": {
+    "precio": 125,
+    "municipio": "Benlloch"
+  },
+  "12182": {
+    "precio": 130,
+    "municipio": "Collet"
+  },
+  "12183": {
+    "precio": 130,
+    "municipio": "Vilanova D'Alcolea"
+  },
+  "12184": {
+    "precio": 135,
+    "municipio": "Sarratella"
+  },
+  "12185": {
+    "precio": 150,
+    "municipio": "Mas D'En Rieres"
+  },
+  "12186": {
+    "precio": 155,
+    "municipio": "La Salzadella"
+  },
+  "12190": {
+    "precio": 105,
+    "municipio": "Borriol"
+  },
+  "12191": {
+    "precio": 115,
+    "municipio": "La Pobla Tornesa"
+  },
+  "12192": {
+    "precio": 115,
+    "municipio": "Vilafames"
+  },
+  "12193": {
+    "precio": 125,
+    "municipio": "Pelechana, La ( Pelechaneta, La)"
+  },
+  "12194": {
+    "precio": 120,
+    "municipio": "Montalba"
+  },
+  "12200": {
+    "precio": 95,
+    "municipio": "Onda"
+  },
+  "12210": {
+    "precio": 100,
+    "municipio": "Ribesalbes"
+  },
+  "12220": {
+    "precio": 90,
+    "municipio": "Artesa"
+  },
+  "12221": {
+    "precio": 90,
+    "municipio": "Tales"
+  },
+  "12222": {
+    "precio": 90,
+    "municipio": "Ain"
+  },
+  "12223": {
+    "precio": 90,
+    "municipio": "Sueras/Suera"
+  },
+  "12224": {
+    "precio": 95,
+    "municipio": "Villamalur"
+  },
+  "12225": {
+    "precio": 100,
+    "municipio": "Fuentes De Ayodar"
+  },
+  "12230": {
+    "precio": 100,
+    "municipio": "Espadilla"
+  },
+  "12231": {
+    "precio": 105,
+    "municipio": "Cirat"
+  },
+  "12232": {
+    "precio": 105,
+    "municipio": "El Tormo"
+  },
+  "12300": {
+    "precio": 165,
+    "municipio": "Morella"
+  },
+  "12310": {
+    "precio": 170,
+    "municipio": "Forcall"
+  },
+  "12311": {
+    "precio": 180,
+    "municipio": "Zorita Del Maestrazgo"
+  },
+  "12312": {
+    "precio": 170,
+    "municipio": "Todolella"
+  },
+  "12313": {
+    "precio": 170,
+    "municipio": "La Pobla D'Alcolea"
+  },
+  "12314": {
+    "precio": 170,
+    "municipio": "Xiva De Morella"
+  },
+  "12315": {
+    "precio": 170,
+    "municipio": "Vallibona"
+  },
+  "12316": {
+    "precio": 165,
+    "municipio": "Hostal Nou"
+  },
+  "12317": {
+    "precio": 180,
+    "municipio": "Herbes"
+  },
+  "12318": {
+    "precio": 160,
+    "municipio": "Cinctorres"
+  },
+  "12319": {
+    "precio": 175,
+    "municipio": "Castell De Cabres"
+  },
+  "12320": {
+    "precio": 170,
+    "municipio": "Sant Jordi/San Jorge"
+  },
+  "12330": {
+    "precio": 170,
+    "municipio": "Traiguera"
+  },
+  "12335": {
+    "precio": 170,
+    "municipio": "La Jana"
+  },
+  "12350": {
+    "precio": 170,
+    "municipio": "Canet Lo Roig"
+  },
+  "12360": {
+    "precio": 165,
+    "municipio": "Xert/Chert"
+  },
+  "12370": {
+    "precio": 160,
+    "municipio": "Anroig"
+  },
+  "12350": {
+    "precio": 80,
+    "municipio": "Segorbe"
+  },
+  "12410": {
+    "precio": 80,
+    "municipio": "Altura"
+  },
+  "12412": {
+    "precio": 80,
+    "municipio": "Geldo"
+  },
+  "12413": {
+    "precio": 80,
+    "municipio": "Castellnovo"
+  },
+  "12414": {
+    "precio": 85,
+    "municipio": "Vall De Almonacid"
+  },
+  "12415": {
+    "precio": 90,
+    "municipio": "Gaibiel"
+  },
+  "12420": {
+    "precio": 105,
+    "municipio": "Barracas"
+  },
+  "12428": {
+    "precio": 110,
+    "municipio": "Los Cantos"
+  },
+  "12429": {
+    "precio": 105,
+    "municipio": "Pina De Montalgrao"
+  },
+  "12430": {
+    "precio": 95,
+    "municipio": "Bejis"
+  },
+  "12431": {
+    "precio": 95,
+    "municipio": "Toras"
+  },
+  "12435": {
+    "precio": 95,
+    "municipio": "Caudiel"
+  },
+  "12447": {
+    "precio": 100,
+    "municipio": "Montan"
+  },
+  "12448": {
+    "precio": 105,
+    "municipio": "La Alqueria"
+  },
+  "12449": {
+    "precio": 95,
+    "municipio": "Higueras"
+  },
+  "12450": {
+    "precio": 90,
+    "municipio": "Novaliches"
+  },
+  "12460": {
+    "precio": 90,
+    "municipio": "Viver"
+  },
+  "12469": {
+    "precio": 95,
+    "municipio": "Masia De Los Perez"
+  },
+  "12470": {
+    "precio": 85,
+    "municipio": "Navajas"
+  },
+  "12480": {
+    "precio": 75,
+    "municipio": "Soneja"
+  },
+  "12489": {
+    "precio": 75,
+    "municipio": "Sot De Ferrer"
+  },
+  "12490": {
+    "precio": 80,
+    "municipio": "Azuebar"
+  },
+  "12499": {
+    "precio": 80,
+    "municipio": "Chovar"
+  },
+  "12500": {
+    "precio": 170,
+    "municipio": "Vinaros"
+  },
+  "12510": {
+    "precio": 180,
+    "municipio": "San Rafael Del Rio"
+  },
+  "12511": {
+    "precio": 175,
+    "municipio": "Rossell"
+  },
+  "12512": {
+    "precio": 175,
+    "municipio": "Bel"
+  },
+  "12513": {
+    "precio": 155,
+    "municipio": "Avella, La (Cati)"
+  },
+  "12520": {
+    "precio": 85,
+    "municipio": "Nules"
+  },
+  "12526": {
+    "precio": 85,
+    "municipio": "La Vilavella"
+  },
+  "12527": {
+    "precio": 85,
+    "municipio": "Artana"
+  },
+  "12528": {
+    "precio": 85,
+    "municipio": "Eslida"
+  },
+  "12529": {
+    "precio": 85,
+    "municipio": "Mascarell"
+  },
+  "12530": {
+    "precio": 90,
+    "municipio": "Alquerias De Santa Barbara"
+  },
+  "12539": {
+    "precio": 90,
+    "municipio": "Alquerias Del Niño Perdido"
+  },
+  "12535": {
+    "precio": 95,
+    "municipio": "Vila-Real/Villarreal"
+  },
+  "12549": {
+    "precio": 90,
+    "municipio": "Betxi"
+  },
+  "12550": {
+    "precio": 100,
+    "municipio": "Almazora/Almassora"
+  },
+  "12560": {
+    "precio": 110,
+    "municipio": "Benicassim"
+  },
+  "12570": {
+    "precio": 145,
+    "municipio": "Alcala De Xivert"
+  },
+  "12578": {
+    "precio": 160,
+    "municipio": "Cervera Del Maestre"
+  },
+  "12579": {
+    "precio": 135,
+    "municipio": "Las Fuentes"
+  },
+  "12580": {
+    "precio": 165,
+    "municipio": "Benicarlo"
+  },
+  "12589": {
+    "precio": 165,
+    "municipio": "Calig"
+  },
+  "12590": {
+    "precio": 70,
+    "municipio": "Almenara"
+  },
+  "12591": {
+    "precio": 75,
+    "municipio": "Casablanca (La Llosa)"
+  },
+  "12592": {
+    "precio": 75,
+    "municipio": "Chilches/Xilxes"
+  },
+  "12593": {
+    "precio": 80,
+    "municipio": "Moncofa"
+  },
+  "12594": {
+    "precio": 120,
+    "municipio": "Oropesa/Oropesa Del Mar"
+  },
+  "12595": {
+    "precio": 125,
+    "municipio": "Torre De La Sal"
+  },
+  "12596": {
+    "precio": 135,
+    "municipio": "Torrenostra"
+  },
+  "12597": {
+    "precio": 150,
+    "municipio": "Santa Magdalena De Pulpis"
+  },
+  "12598": {
+    "precio": 155,
+    "municipio": "Peñiscola"
+  },
+  "12599": {
+    "precio": 185,
+    "municipio": "Fredes"
+  },
+  "12600": {
+    "precio": 80,
+    "municipio": "La Vall D'Uixo"
+  },
+  "12609": {
+    "precio": 80,
+    "municipio": "Alfondeguilla"
+  },
   "46001": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46002": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46003": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46004": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46005": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46006": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46007": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46008": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46009": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46010": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46011": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46012": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46013": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46014": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46015": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46016": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46017": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46018": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46019": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46020": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46021": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46022": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46023": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46024": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46025": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46026": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46035": {
-    "municipio": "Valencia",
-    "precio": 40
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46070": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46071": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46080": {
-    "municipio": "Valencia",
-    "precio": 35
+    "precio": 35,
+    "municipio": "Valencia"
   },
   "46100": {
-    "municipio": "Burjassot",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Burjassot"
   },
   "46110": {
-    "municipio": "Godella",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Godella"
   },
   "46111": {
-    "municipio": "Rocafort",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Rocafort"
   },
   "46112": {
-    "municipio": "Masarrochos",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Masarrochos"
   },
   "46113": {
-    "municipio": "Moncada",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Moncada"
   },
   "46114": {
-    "municipio": "Vinalesa",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Vinalesa"
   },
   "46115": {
-    "municipio": "Alfara Del Patriarca",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Alfara Del Patriarca"
   },
   "46116": {
-    "municipio": "Masias",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Masias"
   },
   "46117": {
-    "municipio": "Betera",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Benagolf (San Antonio) (Urbanizacion)"
   },
   "46118": {
-    "municipio": "Serra",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Serra"
   },
   "46119": {
-    "municipio": "Naquera",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Naquera"
   },
   "46120": {
-    "municipio": "Alboraya",
-    "precio": 40
+    "precio": 35,
+    "municipio": "Alboraya"
   },
   "46127": {
-    "municipio": "Campamento Militar De Betera",
-    "precio": 40
+    "precio": 35,
+    "municipio": "Campamento Militar De Betera"
   },
   "46130": {
-    "municipio": "Massamagrell",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Massamagrell"
   },
   "46131": {
-    "municipio": "Casas De Barcena",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Casas De Barcena"
   },
   "46132": {
-    "municipio": "Almassera",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Almassera"
   },
   "46133": {
-    "municipio": "Meliana",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Meliana"
   },
   "46134": {
-    "municipio": "Foios",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Foios"
   },
   "46135": {
-    "municipio": "Emperador",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Emperador"
   },
   "46136": {
-    "municipio": "Museros",
-    "precio": 45
+    "precio": 50,
+    "municipio": "Museros"
   },
   "46137": {
-    "municipio": "Puebla De Farnals (Playa)",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Puebla De Farnals (Playa)"
   },
   "46138": {
-    "municipio": "Rafelbuñol/Rafelbunyol",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Rafelbuñol/Rafelbunyol"
   },
   "46139": {
-    "municipio": "La Pobla De Farnals",
-    "precio": 45
+    "precio": 45,
+    "municipio": "La Pobla De Farnals"
   },
-  "46140": {
-    "municipio": "Sesga",
-    "precio": 160
+  "46135": {
+    "precio": 150,
+    "municipio": "Arroyo Cerezo"
   },
   "46141": {
-    "municipio": "Castielfabib",
-    "precio": 180
+    "precio": 145,
+    "municipio": "Cuesta Del Rato"
   },
   "46142": {
-    "municipio": "Los Santos",
-    "precio": 180
+    "precio": 135,
+    "municipio": "Los Santos"
   },
   "46143": {
-    "municipio": "Torrebaja",
-    "precio": 180
+    "precio": 135,
+    "municipio": "Torrebaja"
   },
   "46144": {
-    "municipio": "Torrealta",
-    "precio": 180
+    "precio": 135,
+    "municipio": "Torrealta"
   },
   "46145": {
-    "municipio": "Negron",
-    "precio": 180
+    "precio": 145,
+    "municipio": "Vallanca"
   },
   "46146": {
-    "municipio": "Casas Bajas",
-    "precio": 190
+    "precio": 135,
+    "municipio": "Casas Bajas"
   },
   "46147": {
-    "municipio": "Casas Altas",
-    "precio": 190
+    "precio": 135,
+    "municipio": "Casas Altas"
   },
   "46148": {
-    "municipio": "Algimia De Alfara",
-    "precio": 80
+    "precio": 70,
+    "municipio": "Algimia De Alfara"
   },
   "46149": {
-    "municipio": "Gilet",
-    "precio": 70
+    "precio": 60,
+    "municipio": "Santo Espiritu Del Monte"
   },
   "46150": {
-    "municipio": "Campamento De Marines",
-    "precio": 75
+    "precio": 80,
+    "municipio": "Campamento De Marines"
   },
   "46160": {
-    "municipio": "Lliria",
-    "precio": 75
+    "precio": 80,
+    "municipio": "Vanacloig"
   },
   "46162": {
-    "municipio": "Artaj",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Pobleta De Andilla"
   },
   "46163": {
-    "municipio": "Marines",
-    "precio": 75
+    "precio": 70,
+    "municipio": "Marines Viejo"
   },
   "46164": {
-    "municipio": "Pedralba",
-    "precio": 75
+    "precio": 70,
+    "municipio": "Pedralba"
   },
   "46165": {
-    "municipio": "Bugarra",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Bugarra"
   },
   "46166": {
-    "municipio": "Gestalgar",
-    "precio": 80
+    "precio": 80,
+    "municipio": "Gestalgar"
   },
   "46167": {
-    "municipio": "Chulilla",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Chulilla"
   },
   "46168": {
-    "municipio": "Sot De Chera",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Losa Del Obispo"
   },
   "46169": {
-    "municipio": "Gatova",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Gatova"
   },
   "46170": {
-    "municipio": "Villar Del Arzobispo",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Villar Del Arzobispo"
   },
   "46171": {
-    "municipio": "Casinos",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Casinos"
   },
   "46172": {
-    "municipio": "Alcublas",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Alcublas"
   },
   "46173": {
-    "municipio": "Benageber",
-    "precio": 120
+    "precio": 105,
+    "municipio": "Benageber"
   },
   "46174": {
-    "municipio": "Domeño",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Domeño"
   },
   "46175": {
-    "municipio": "Calles",
-    "precio": 110
+    "precio": 95,
+    "municipio": "Calles"
   },
   "46176": {
-    "municipio": "Chelva",
-    "precio": 110
+    "precio": 100,
+    "municipio": "Torrecilla"
   },
   "46177": {
-    "municipio": "Tuejar",
-    "precio": 120
+    "precio": 105,
+    "municipio": "Tuejar"
   },
   "46178": {
-    "municipio": "La Yesa",
-    "precio": 120
+    "precio": 115,
+    "municipio": "Collado De Alpuente"
   },
   "46179": {
-    "municipio": "Losilla De Aras",
-    "precio": 130
+    "precio": 120,
+    "municipio": "Losilla De Aras"
   },
   "46180": {
-    "municipio": "Benaguasil",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Benaguasil"
   },
   "46181": {
-    "municipio": "Benisano",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Benisano"
   },
   "46182": {
-    "municipio": "La Cañada",
-    "precio": 50
+    "precio": 50,
+    "municipio": "La Cañada"
   },
   "46183": {
-    "municipio": "Eliana, L'",
-    "precio": 55
+    "precio": 55,
+    "municipio": "Eliana, L'"
   },
   "46184": {
-    "municipio": "San Antonio De Benageber",
-    "precio": 55
+    "precio": 55,
+    "municipio": "Cumbres De San Antonio (Betera) (Urbanizacion)"
   },
   "46185": {
-    "municipio": "La Pobla De Vallbona",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Montecolorado (Urbanizacion)"
   },
   "46190": {
-    "municipio": "Riba-Roja De Turia",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Riba-Roja De Turia"
   },
   "46191": {
-    "municipio": "Vilamarxant",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Vilamarxant"
   },
   "46192": {
-    "municipio": "Monserrat",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Monserrat"
   },
   "46193": {
-    "municipio": "Montroy",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Montroy"
   },
   "46194": {
-    "municipio": "Real",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Real"
   },
   "46195": {
-    "municipio": "Llombai",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Llombai"
   },
   "46196": {
-    "municipio": "Catadau",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Catadau"
   },
   "46197": {
-    "municipio": "Alfarp",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Alfarp"
   },
   "46198": {
-    "municipio": "Millares",
-    "precio": 100
+    "precio": 80,
+    "municipio": "Millares"
   },
   "46199": {
-    "municipio": "El Oro",
-    "precio": 110
+    "precio": 100,
+    "municipio": "La Cabezuela"
   },
   "46200": {
-    "municipio": "Paiporta",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Paiporta"
   },
   "46210": {
-    "municipio": "Picanya",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Picanya"
   },
   "46220": {
-    "municipio": "Alter, L'",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Picassent"
   },
   "46225": {
-    "municipio": "Centro Penitenciario Picassent",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Centro Penitenciario Picassent"
   },
   "46229": {
-    "municipio": "Fuente Del Omet",
-    "precio": 55
+    "precio": 55,
+    "municipio": "Fuente Del Omet"
   },
   "46230": {
-    "municipio": "Alginet",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Lagos, Los (Alfarp) (Urbanizacion)"
   },
-  "46240": {
-    "municipio": "Carlet",
-    "precio": 65
+  "46235": {
+    "precio": 65,
+    "municipio": "Ausias March (Urbanizacion)"
   },
   "46249": {
-    "municipio": "Villarrubia De Carlet",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Villarrubia De Carlet"
   },
   "46250": {
-    "municipio": "Montortal",
-    "precio": 70
+    "precio": 75,
+    "municipio": "Alcudia, L'"
   },
   "46260": {
-    "municipio": "Alberic",
-    "precio": 80
+    "precio": 80,
+    "municipio": "Alberic"
   },
   "46266": {
-    "municipio": "Antella",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Antella"
   },
   "46267": {
-    "municipio": "Gavarda",
-    "precio": 80
+    "precio": 80,
+    "municipio": "Gavarda"
   },
   "46268": {
-    "municipio": "La Garrofera De Alzira",
-    "precio": 80
+    "precio": 80,
+    "municipio": "La Garrofera De Alzira"
   },
   "46269": {
-    "municipio": "Tous",
-    "precio": 80
+    "precio": 80,
+    "municipio": "Tous"
   },
   "46270": {
-    "municipio": "Villanueva De Castellon",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Villanueva De Castellon"
   },
   "46290": {
-    "municipio": "Alcasser",
-    "precio": 45
+    "precio": 50,
+    "municipio": "Alcasser"
   },
   "46291": {
-    "municipio": "Benimodo",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Benimodo"
   },
   "46292": {
-    "municipio": "Massalaves",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Massalaves"
   },
   "46293": {
-    "municipio": "Beneixida",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Beneixida"
   },
   "46294": {
-    "municipio": "Cotes",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Carcer"
   },
   "46295": {
-    "municipio": "Sellent",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Sellent"
   },
   "46300": {
-    "municipio": "Utiel",
-    "precio": 120
+    "precio": 110,
+    "municipio": "Utiel"
   },
   "46310": {
-    "municipio": "Las Monjas",
-    "precio": 125
+    "precio": 125,
+    "municipio": "Casas De Moya"
   },
   "46311": {
-    "municipio": "Jaraguas",
-    "precio": 120
+    "precio": 120,
+    "municipio": "Jaraguas"
   },
   "46312": {
-    "municipio": "Casas De Medina",
-    "precio": 120
+    "precio": 120,
+    "municipio": "Casas De Medina"
   },
   "46313": {
-    "municipio": "Las Casas",
-    "precio": 115
+    "precio": 115,
+    "municipio": "Los Corrales"
   },
   "46314": {
-    "municipio": "Fuenterrobles",
-    "precio": 125
+    "precio": 125,
+    "municipio": "Fuenterrobles"
   },
   "46315": {
-    "municipio": "Caudete De Las Fuentes",
-    "precio": 115
+    "precio": 115,
+    "municipio": "Caudete De Las Fuentes"
   },
   "46317": {
-    "municipio": "Villargordo Del Cabriel",
-    "precio": 130
+    "precio": 130,
+    "municipio": "Villargordo Del Cabriel"
   },
   "46320": {
-    "municipio": "Sinarcas",
-    "precio": 115
+    "precio": 115,
+    "municipio": "Sinarcas"
   },
   "46321": {
-    "municipio": "Torre, Aldea De La",
-    "precio": 120
+    "precio": 115,
+    "municipio": "Torre, Aldea De La"
   },
   "46330": {
-    "municipio": "Camporrobles",
-    "precio": 130
+    "precio": 125,
+    "municipio": "Camporrobles"
   },
   "46339": {
-    "municipio": "La Loberuela",
-    "precio": 130
+    "precio": 125,
+    "municipio": "La Loberuela"
   },
-  "46340": {
-    "municipio": "Requena",
-    "precio": 100
+  "46335": {
+    "precio": 100,
+    "municipio": "Requena"
   },
   "46350": {
-    "municipio": "Chera",
-    "precio": 110
+    "precio": 90,
+    "municipio": "Chera"
   },
   "46351": {
-    "municipio": "Las Nogueras",
-    "precio": 120
+    "precio": 100,
+    "municipio": "Las Nogueras"
   },
   "46352": {
-    "municipio": "Los Duques",
-    "precio": 110
+    "precio": 110,
+    "municipio": "Los Duques"
   },
   "46353": {
-    "municipio": "Los Ruices",
-    "precio": 115
+    "precio": 115,
+    "municipio": "Los Ruices"
   },
   "46354": {
-    "municipio": "Los Cojos",
-    "precio": 120
+    "precio": 120,
+    "municipio": "Los Cojos"
   },
   "46355": {
-    "municipio": "Los Pedrones",
-    "precio": 120
+    "precio": 100,
+    "municipio": "Casas De Juan Vich"
   },
   "46356": {
-    "municipio": "Casas Del Rio",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Casas Del Rio"
   },
   "46357": {
-    "municipio": "Azagador",
-    "precio": 110
+    "precio": 100,
+    "municipio": "La Portera"
   },
   "46360": {
-    "municipio": "Buñol",
-    "precio": 85
+    "precio": 75,
+    "municipio": "Buñol"
   },
   "46367": {
-    "municipio": "Yatova",
-    "precio": 90
+    "precio": 75,
+    "municipio": "Yatova"
   },
   "46368": {
-    "municipio": "Macastre",
-    "precio": 80
+    "precio": 75,
+    "municipio": "Macastre"
   },
   "46369": {
-    "municipio": "Alborache",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Alborache"
   },
   "46370": {
-    "municipio": "Chiva",
-    "precio": 75
+    "precio": 65,
+    "municipio": "Chiva"
   },
   "46380": {
-    "municipio": "Cheste",
-    "precio": 70
+    "precio": 65,
+    "municipio": "Cheste"
   },
   "46388": {
-    "municipio": "Godelleta",
-    "precio": 70
+    "precio": 65,
+    "municipio": "Godelleta"
   },
   "46389": {
-    "municipio": "Turis",
-    "precio": 70
+    "precio": 65,
+    "municipio": "Turis"
   },
   "46390": {
-    "municipio": "Roma",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Chicanos"
   },
   "46391": {
-    "municipio": "El Rebollar",
-    "precio": 100
+    "precio": 90,
+    "municipio": "El Rebollar"
   },
   "46392": {
-    "municipio": "Siete Aguas",
-    "precio": 90
+    "precio": 85,
+    "municipio": "Siete Aguas"
   },
   "46393": {
-    "municipio": "Loriguilla",
-    "precio": 120
+    "precio": 55,
+    "municipio": "Loriguilla"
   },
   "46394": {
-    "municipio": "Riba-roja de Turia",
-    "precio": 55
+    "precio": 55,
+    "municipio": "Oliveral, Del (Masia)"
   },
-  "46400": {
-    "municipio": "Cullera",
-    "precio": 80
+  "46350": {
+    "precio": 75,
+    "municipio": "Cullera"
   },
-  "46408": {
-    "municipio": "El Dosel",
-    "precio": 80
+  "46358": {
+    "precio": 70,
+    "municipio": "El Dosel"
   },
-  "46409": {
-    "municipio": "El Estany",
-    "precio": 80
+  "46359": {
+    "precio": 80,
+    "municipio": "El Brosquil"
   },
   "46410": {
-    "municipio": "Sueca",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Sueca"
   },
   "46417": {
-    "municipio": "Riola",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Riola"
   },
   "46418": {
-    "municipio": "Fortaleny",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Fortaleny"
   },
   "46419": {
-    "municipio": "Mareny Blau",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Mareny De Vilches"
   },
   "46420": {
-    "municipio": "El Perello",
-    "precio": 60
+    "precio": 60,
+    "municipio": "El Perello"
   },
   "46430": {
-    "municipio": "Sollana",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Sollana"
   },
   "46439": {
-    "municipio": "Romani",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Romani"
   },
-  "46440": {
-    "municipio": "Almussafes",
-    "precio": 60
+  "46435": {
+    "precio": 60,
+    "municipio": "Almussafes"
   },
   "46450": {
-    "municipio": "Benifaio",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Benifaio"
   },
   "46460": {
-    "municipio": "Silla",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Silla"
   },
   "46469": {
-    "municipio": "Beniparrell",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Beniparrell"
   },
   "46470": {
-    "municipio": "Albal",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Massanassa"
   },
   "46500": {
-    "municipio": "Sagunt/Sagunto",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Sagunt/Sagunto"
   },
   "46501": {
-    "municipio": "Petres",
-    "precio": 60
+    "precio": 60,
+    "municipio": "Petres"
   },
   "46510": {
-    "municipio": "Quartell",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Quartell"
   },
   "46511": {
-    "municipio": "Benifairo De Les Valls",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Benifairo De Les Valls"
   },
   "46512": {
-    "municipio": "Faura",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Faura"
   },
   "46513": {
-    "municipio": "Estacion De Los Valles",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Estacion De Los Valles"
   },
   "46514": {
-    "municipio": "Benavites",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Benavites"
   },
   "46515": {
-    "municipio": "Quart De Les Valls",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Quart De Les Valls"
   },
   "46520": {
-    "municipio": "Puerto De Sagunto",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Almarda, De (Playa)"
   },
   "46529": {
-    "municipio": "Canet D'En Berenguer",
-    "precio": 65
+    "precio": 65,
+    "municipio": "Canet D'En Berenguer"
   },
   "46530": {
-    "municipio": "Puçol",
-    "precio": 55
+    "precio": 55,
+    "municipio": "Puçol"
   },
-  "46540": {
-    "municipio": "El Puig",
-    "precio": 50
+  "46535": {
+    "precio": 50,
+    "municipio": "El Puig"
   },
   "46550": {
-    "municipio": "Albuixech",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Albuixech"
   },
   "46560": {
-    "municipio": "Massalfassar",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Massalfassar"
   },
   "46590": {
-    "municipio": "Estivella",
-    "precio": 70
+    "precio": 65,
+    "municipio": "Estivella"
   },
   "46591": {
-    "municipio": "Albalat Dels Taronchers",
-    "precio": 70
+    "precio": 65,
+    "municipio": "Albalat Dels Taronchers"
   },
   "46592": {
-    "municipio": "Segart",
-    "precio": 70
+    "precio": 60,
+    "municipio": "Segart"
   },
   "46593": {
-    "municipio": "Algar De Palancia",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Algar De Palancia"
   },
   "46594": {
-    "municipio": "Alfara De La Baronia",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Alfara De La Baronia"
   },
   "46595": {
-    "municipio": "Torres-Torres",
-    "precio": 70
+    "precio": 65,
+    "municipio": "Torres-Torres"
   },
   "46600": {
-    "municipio": "Alzira",
-    "precio": 70
+    "precio": 75,
+    "municipio": "Alzira"
   },
   "46610": {
-    "municipio": "Guadassuar",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Guadassuar"
   },
   "46611": {
-    "municipio": "Benimuslem",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Benimuslem"
   },
   "46612": {
-    "municipio": "Corbera",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Corbera"
   },
   "46613": {
-    "municipio": "Llauri",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Llauri"
   },
   "46614": {
-    "municipio": "Favara",
-    "precio": 75
+    "precio": 75,
+    "municipio": "Favara"
   },
   "46620": {
-    "municipio": "Ayora",
-    "precio": 150
+    "precio": 110,
+    "municipio": "Ayora"
   },
   "46621": {
-    "municipio": "Zarra",
-    "precio": 170
+    "precio": 125,
+    "municipio": "San Benito"
   },
   "46622": {
-    "municipio": "Teresa De Cofrentes",
-    "precio": 140
+    "precio": 110,
+    "municipio": "Teresa De Cofrentes"
   },
   "46623": {
-    "municipio": "Jarafuel",
-    "precio": 150
+    "precio": 110,
+    "municipio": "Jarafuel"
   },
   "46624": {
-    "municipio": "Jalance",
-    "precio": 140
+    "precio": 105,
+    "municipio": "Jalance"
   },
   "46625": {
-    "municipio": "Cofrentes",
-    "precio": 130
+    "precio": 100,
+    "municipio": "Cofrentes"
   },
   "46630": {
-    "municipio": "La Font De La Figuera",
-    "precio": 125
+    "precio": 125,
+    "municipio": "La Font De La Figuera"
   },
   "46635": {
-    "municipio": "Poblet",
-    "precio": 120
+    "precio": 120,
+    "municipio": "Fontanars Dels Alforins"
   },
-  "46640": {
-    "municipio": "Mogente/Moixent",
-    "precio": 110
+  "46635": {
+    "precio": 110,
+    "municipio": "Mogente/Moixent"
   },
   "46650": {
-    "municipio": "Canals",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Canals"
   },
   "46659": {
-    "municipio": "Ayacor",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Ayacor"
   },
   "46660": {
-    "municipio": "Manuel",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Manuel"
   },
   "46666": {
-    "municipio": "Berfull",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Rafelguaraf"
   },
   "46667": {
-    "municipio": "Barxeta",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Barxeta"
   },
   "46668": {
-    "municipio": "Tosalnou",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Llocnou D'En Fenollet"
   },
   "46669": {
-    "municipio": "Senyera",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Enova, L'"
   },
   "46670": {
-    "municipio": "La Pobla Llarga",
-    "precio": 80
+    "precio": 80,
+    "municipio": "La Pobla Llarga"
   },
   "46680": {
-    "municipio": "Algemesi",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Carrascalet"
   },
   "46687": {
-    "municipio": "Albalat De La Ribera",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Albalat De La Ribera"
   },
   "46688": {
-    "municipio": "Polinya De Xuquer",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Polinya De Xuquer"
   },
   "46689": {
-    "municipio": "Benicull De Xuquer",
-    "precio": 70
+    "precio": 70,
+    "municipio": "Benicull De Xuquer"
   },
   "46690": {
-    "municipio": "Alcudia De Crespins, L'",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Alcudia De Crespins, L'"
   },
   "46691": {
-    "municipio": "Vallada",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Vallada"
   },
   "46692": {
-    "municipio": "Montesa",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Montesa"
   },
   "46700": {
-    "municipio": "Gandia",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Gandia"
   },
   "46701": {
-    "municipio": "Gandia",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Gandia"
   },
   "46702": {
-    "municipio": "Gandia",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Gandia"
   },
   "46703": {
-    "municipio": "Gandia",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Gandia"
   },
   "46710": {
-    "municipio": "Daimus",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Daimus"
   },
   "46711": {
-    "municipio": "Miramar",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Guardamar De La Safor"
   },
   "46712": {
-    "municipio": "Piles",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Piles, De (Playa)"
   },
   "46713": {
-    "municipio": "Bellreguard Poble",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Bellreguard Poble"
   },
   "46714": {
-    "municipio": "Palmera",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Palmera"
   },
   "46715": {
-    "municipio": "Alqueria De La Comtessa, L'/Alqueria De La Condesa",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Alqueria De La Comtessa, L'/Alqueria De La Condesa"
   },
   "46716": {
-    "municipio": "Rafelcofer",
-    "precio": 110
+    "precio": 100,
+    "municipio": "Rafelcofer"
   },
   "46717": {
-    "municipio": "La Font D'En Carros",
-    "precio": 110
+    "precio": 100,
+    "municipio": "La Font D'En Carros"
   },
   "46720": {
-    "municipio": "Villalonga",
-    "precio": 110
+    "precio": 105,
+    "municipio": "Villalonga"
   },
   "46721": {
-    "municipio": "Potries",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Potries"
   },
   "46722": {
-    "municipio": "Benifla",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Benifla"
   },
   "46723": {
-    "municipio": "Almoines",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Almoines"
   },
   "46724": {
-    "municipio": "Palma De Gandia",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Palma De Gandia"
   },
   "46725": {
-    "municipio": "Rotova",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Rotova"
   },
   "46726": {
-    "municipio": "Almisera",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Almisera"
   },
   "46727": {
-    "municipio": "Real De Gandia",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Real De Gandia"
   },
   "46728": {
-    "municipio": "Gandia",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Gandia"
   },
   "46729": {
-    "municipio": "Ador",
-    "precio": 110
+    "precio": 135,
+    "municipio": "Montecorona (Urbanitzacio)"
   },
   "46730": {
-    "municipio": "Gandia",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Moli Santa Maria"
   },
-  "46740": {
-    "municipio": "Carcaixent",
-    "precio": 80
+  "46735": {
+    "precio": 75,
+    "municipio": "Carcaixent"
   },
   "46749": {
-    "municipio": "Cogullada",
-    "precio": 80
+    "precio": 80,
+    "municipio": "Cogullada"
   },
   "46750": {
-    "municipio": "Simat De La Valldigna",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Simat De La Valldigna"
   },
   "46758": {
-    "municipio": "Barx",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Barx"
   },
   "46759": {
-    "municipio": "Corrales De Valldigna",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Corrales De Valldigna"
   },
   "46760": {
-    "municipio": "Tavernes De La Valldigna",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Tavernes De La Valldigna"
   },
   "46770": {
-    "municipio": "Xeraco",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Xeraco"
   },
   "46780": {
-    "municipio": "Oliva",
-    "precio": 110
+    "precio": 105,
+    "municipio": "Oliva"
   },
   "46790": {
-    "municipio": "Xeresa",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Xeresa"
   },
   "46791": {
-    "municipio": "Benifairo De La Valldigna",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Benifairo De La Valldigna"
   },
   "46792": {
-    "municipio": "Barraca D'Aigues Vives",
-    "precio": 85
+    "precio": 85,
+    "municipio": "Barraca D'Aigues Vives"
   },
   "46800": {
-    "municipio": "Sorio",
-    "precio": 90
+    "precio": 95,
+    "municipio": "Xativa"
   },
   "46810": {
-    "municipio": "Enguera",
-    "precio": 110
+    "precio": 100,
+    "municipio": "Enguera"
   },
   "46811": {
-    "municipio": "Navalon De Abajo",
-    "precio": 120
+    "precio": 110,
+    "municipio": "Navalon De Abajo"
   },
   "46812": {
-    "municipio": "Aielo De Malferit",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Aielo De Malferit"
   },
   "46813": {
-    "municipio": "Cerda",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Cerda"
   },
   "46814": {
-    "municipio": "Torrella",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Llanera De Ranes"
   },
   "46815": {
-    "municipio": "La Llosa De Ranes",
-    "precio": 95
+    "precio": 95,
+    "municipio": "La Llosa De Ranes"
   },
   "46816": {
-    "municipio": "Rotgla I Corbera",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Torrent De Fenollet"
   },
   "46817": {
-    "municipio": "Estubeny",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Estubeny"
   },
   "46818": {
-    "municipio": "Valles",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Valles"
   },
   "46819": {
-    "municipio": "Novele/Novetle",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Novele/Novetle"
   },
   "46820": {
-    "municipio": "Anna",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Barrio Fuente Negra"
   },
   "46821": {
-    "municipio": "Chella",
-    "precio": 90
+    "precio": 90,
+    "municipio": "Chella"
   },
   "46822": {
-    "municipio": "Bolbaite",
-    "precio": 100
+    "precio": 90,
+    "municipio": "Bolbaite"
   },
   "46823": {
-    "municipio": "Navarres",
-    "precio": 100
+    "precio": 85,
+    "municipio": "Navarres"
   },
   "46824": {
-    "municipio": "Quesa",
-    "precio": 100
+    "precio": 90,
+    "municipio": "Quesa"
   },
   "46825": {
-    "municipio": "Bicorp",
-    "precio": 120
+    "precio": 90,
+    "municipio": "Bicorp"
   },
   "46830": {
-    "municipio": "Beniganim",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Beniganim"
   },
   "46837": {
-    "municipio": "Quatretonda",
-    "precio": 100
+    "precio": 95,
+    "municipio": "Quatretonda"
   },
   "46838": {
-    "municipio": "Pinet",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Benicolet"
   },
   "46839": {
-    "municipio": "Bellus",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Sempere"
   },
-  "46840": {
-    "municipio": "La Pobla Del Duc",
-    "precio": 105
+  "46835": {
+    "precio": 105,
+    "municipio": "La Pobla Del Duc"
   },
   "46841": {
-    "municipio": "Castello De Rugat",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Castello De Rugat"
   },
   "46842": {
-    "municipio": "Rugat",
-    "precio": 110
+    "precio": 110,
+    "municipio": "Aielo De Rugat"
   },
   "46843": {
-    "municipio": "Salem",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Rafol De Salem"
   },
   "46844": {
-    "municipio": "Otos",
-    "precio": 105
+    "precio": 105,
+    "municipio": "Beniatjar"
   },
   "46850": {
-    "municipio": "Olleria, L'",
-    "precio": 100
+    "precio": 100,
+    "municipio": "Olleria, L'"
   },
   "46860": {
-    "municipio": "Albaida",
-    "precio": 110
+    "precio": 110,
+    "municipio": "Albaida"
   },
   "46868": {
-    "municipio": "Belgida",
-    "precio": 110
+    "precio": 105,
+    "municipio": "Belgida"
   },
   "46869": {
-    "municipio": "Benisoda",
-    "precio": 110
+    "precio": 110,
+    "municipio": "Benisoda"
   },
   "46870": {
-    "municipio": "Ontinyent",
-    "precio": 110
+    "precio": 110,
+    "municipio": "Ontinyent"
   },
   "46880": {
-    "municipio": "Bocairent",
-    "precio": 120
+    "precio": 120,
+    "municipio": "Bocairent"
   },
   "46890": {
-    "municipio": "Agullent",
-    "precio": 110
+    "precio": 110,
+    "municipio": "Agullent"
   },
   "46891": {
-    "municipio": "Bufali",
-    "precio": 110
+    "precio": 105,
+    "municipio": "Bufali"
   },
   "46892": {
-    "municipio": "Montaverner",
-    "precio": 110
+    "precio": 105,
+    "municipio": "Montaverner"
   },
   "46893": {
-    "municipio": "Alfarrasi",
-    "precio": 110
+    "precio": 100,
+    "municipio": "Alfarrasi"
   },
   "46894": {
-    "municipio": "Alboy",
-    "precio": 95
+    "precio": 95,
+    "municipio": "Alboy"
   },
   "46900": {
-    "municipio": "Torrent",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Torrent"
   },
   "46901": {
-    "municipio": "El Vedat De Torrente",
-    "precio": 50
+    "precio": 50,
+    "municipio": "El Vedat De Torrente"
   },
   "46909": {
-    "municipio": "Juez, Del (Masia)",
-    "precio": 50
+    "precio": 50,
+    "municipio": "Juez, Del (Masia)"
   },
   "46910": {
-    "municipio": "Sedavi",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Lugar Nuevo De La Corona"
   },
   "46920": {
-    "municipio": "Mislata",
-    "precio": 40
+    "precio": 35,
+    "municipio": "Mislata"
   },
   "46930": {
-    "municipio": "Barrio De Porta",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Quart De Poblet"
   },
-  "46940": {
-    "municipio": "Manises",
-    "precio": 50
+  "46935": {
+    "precio": 50,
+    "municipio": "Aeropuerto De Manises (Valencia)"
   },
   "46950": {
-    "municipio": "Xirivella",
-    "precio": 40
+    "precio": 45,
+    "municipio": "Xirivella"
   },
   "46960": {
-    "municipio": "Aldaia",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Aldaia"
   },
   "46970": {
-    "municipio": "Alaquas",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Alaquas"
   },
   "46980": {
-    "municipio": "Paterna",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Paterna"
   },
   "46988": {
-    "municipio": "Poligono Fuente Del Jarro",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Poligono Fuente Del Jarro"
   },
   "46989": {
-    "municipio": "Terramelar",
-    "precio": 45
+    "precio": 45,
+    "municipio": "Terramelar"
   }
 }
