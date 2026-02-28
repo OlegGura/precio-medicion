@@ -6,6 +6,10 @@
   "43502": {
     "precio": 150,
     "municipio": "Teruel"
+     },
+  "46240": {
+    "precio": 150,
+    "municipio": "Carlet"
   },
   "46540": {
     "precio": 50,
@@ -24,23 +28,23 @@
     "municipio": "Cullera"
   },
   "43503": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Teruel"
   },
   "43570": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Teruel"
   },
   "43571": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Teruel"
   },
   "43580": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Teruel"
   },
   "44100": {
-    "precio": 175,
+    "precio": 170,
     "municipio": "Albarracin"
   },
   "44110": {
@@ -48,11 +52,11 @@
     "municipio": "Gea De Albarracin"
   },
   "44111": {
-    "precio": 185,
+    "precio": 180,
     "municipio": "Torres De Albarracin"
   },
   "44112": {
-    "precio": 185,
+    "precio": 180,
     "municipio": "Tramacastilla"
   },
   "44113": {
@@ -60,7 +64,7 @@
     "municipio": "Noguera De Albarracin"
   },
   "44114": {
-    "precio": 195,
+    "precio": 190,
     "municipio": "Griegos"
   },
   "44115": {
@@ -84,11 +88,11 @@
     "municipio": "El Vallecillo"
   },
   "44124": {
-    "precio": 175,
+    "precio": 170,
     "municipio": "Moscardon"
   },
   "44125": {
-    "precio": 175,
+    "precio": 170,
     "municipio": "Royuela"
   },
   "44126": {
@@ -100,19 +104,19 @@
     "municipio": "Villastar"
   },
   "44131": {
-    "precio": 145,
+    "precio": 140,
     "municipio": "Villel"
   },
   "44132": {
-    "precio": 145,
+    "precio": 140,
     "municipio": "Libros"
   },
   "44133": {
-    "precio": 145,
+    "precio": 140,
     "municipio": "Tramacastiel"
   },
   "44134": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Alobras"
   },
   "44135": {
@@ -120,7 +124,7 @@
     "municipio": "Cañada De Benatanduz"
   },
   "44141": {
-    "precio": 165,
+    "precio": 160,
     "municipio": "Tronchon"
   },
   "44142": {
@@ -128,7 +132,7 @@
     "municipio": "La Iglesuela Del Cid"
   },
   "44143": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Fortanete"
   },
   "44144": {
@@ -136,11 +140,11 @@
     "municipio": "Villarroya De Los Pinares"
   },
   "44145": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Allepuz"
   },
   "44146": {
-    "precio": 155,
+    "precio": 150,
     "municipio": "Monteagudo Del Castillo"
   },
   "44147": {
@@ -148,7 +152,7 @@
     "municipio": "Cedrillas"
   },
   "44150": {
-    "precio": 175,
+    "precio": 170,
     "municipio": "Aliaga"
   },
   "44155": {
@@ -156,7 +160,7 @@
     "municipio": "Camarillas"
   },
   "44156": {
-    "precio": 165,
+    "precio": 160,
     "municipio": "Aguilar De Alfambra"
   },
   "44157": {
@@ -168,7 +172,7 @@
     "municipio": "Campos"
   },
   "44159": {
-    "precio": 165,
+    "precio": 160,
     "municipio": "Miravete De La Sierra"
   },
   "44160": {
@@ -176,15 +180,15 @@
     "municipio": "Alfambra"
   },
   "44161": {
-    "precio": 175,
+    "precio": 170,
     "municipio": "Villalba Alta"
   },
   "44162": {
-    "precio": 165,
+    "precio": 160,
     "municipio": "Peralejos"
   },
   "44163": {
-    "precio": 175,
+    "precio": 170,
     "municipio": "Perales De Alfambra"
   },
   "44164": {
